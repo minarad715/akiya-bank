@@ -131,56 +131,56 @@
                 </div>
             </div>
         </header>
-        
+
         <div id="properties" class="property-grid">
             <div class="loading">物件を読み込み中...</div>
         </div>
     </div>
 
     <script>
-const dataFiles = [
-    "/data/raw/hokuto.json",
-    "/data/raw/iida.json",
-    "/data/raw/azumino.json",
-    "/data/raw/athome_nagano.json",
-    "/data/raw/athome_yamanashi.json",
-    "/data/raw/athome_shizuoka.json",
-    "/data/raw/athome_chiba.json",
-    "/data/raw/athome_hokkaido.json",
-    "/data/raw/athome_fukuoka.json",
-    "/data/raw/athome_kyoto.json",
-    "/data/raw/athome_hiroshima.json",
-    "/data/raw/athome_gunma.json",
-    "/data/raw/athome_tochigi.json"
-];
-        
+        const dataFiles = [
+            "/data/raw/hokuto.json",
+            "/data/raw/iida.json",
+            "/data/raw/azumino.json",
+            "/data/raw/athome_nagano.json",
+            "/data/raw/athome_yamanashi.json",
+            "/data/raw/athome_shizuoka.json",
+            "/data/raw/athome_chiba.json",
+            "/data/raw/athome_hokkaido.json",
+            "/data/raw/athome_fukuoka.json",
+            "/data/raw/athome_kyoto.json",
+            "/data/raw/athome_hiroshima.json",
+            "/data/raw/athome_gunma.json",
+            "/data/raw/athome_tochigi.json"
+        ];
+
         Promise.all(dataFiles.map(file => fetch(file).then(r => r.json())))
             .then(dataArray => {
                 const container = document.getElementById("properties");
                 container.innerHTML = "";
-                
+
                 let totalProperties = 0;
                 let allProperties = [];
-                
+
                 dataArray.forEach(data => {
                     totalProperties += data.count;
                     allProperties = allProperties.concat(data.properties);
                 });
-                
+
                 document.getElementById("totalProperties").textContent = totalProperties;
                 document.getElementById("totalMunicipalities").textContent = dataArray.length;
-                
+
                 allProperties.forEach(property => {
                     const card = document.createElement("div");
                     card.className = "property-card";
-                    
+
                     let priceDisplay = "価格未定";
                     if (property.price) {
                         priceDisplay = (property.price / 10000).toFixed(0) + "万円";
                     }
-                    
+
                     const imageUrl = property.images && property.images.length > 0 ? property.images[0] : "";
-                    
+
                     card.innerHTML = `
                         ${imageUrl ? '<img src="' + imageUrl + '" alt="' + property.title + '" class="property-image">' : '<div class="property-image"></div>'}
                         <div class="property-info">
@@ -195,7 +195,7 @@ const dataFiles = [
                             <a href="${property.url}" target="_blank" class="property-link">詳細を見る →</a>
                         </div>
                     `;
-                    
+
                     container.appendChild(card);
                 });
             })
