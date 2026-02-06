@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>全国空き家バンク</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        header {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            color: #7f8c8d;
+            margin-bottom: 20px;
+        }
+        .stats {
+            display: flex;
+            gap: 20px;
+            margin-top: 15px;
+        }
+        .stat-item {
+            background: #ecf0f1;
+            padding: 10px 20px;
+            border-radius: 5px;
+        }
+        .stat-number {
+            font-size: 24px;
+            font-weight: bold;
+            color: #3498db;
+        }
+        .property-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+        }
+        .property-card {
+            background: white;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+        .property-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 20px rgba(0,0,0,0.15);
+        }
+        .property-image {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+            background: #ecf0f1;
+        }
+        .property-info {
+            padding: 20px;
+        }
+        .property-title {
+            font-size: 16px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 15px;
+            min-height: 40px;
+        }
+        .property-price {
+            font-size: 28px;
+            color: #e74c3c;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        .property-details {
+            color: #7f8c8d;
+            line-height: 1.8;
+            font-size: 14px;
+        }
+        .property-detail-item {
+            margin-bottom: 8px;
+        }
+        .property-link {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+        .property-link:hover {
+            background: #2980b9;
+        }
+        .loading {
+            text-align: center;
+            padding: 50px;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏡 全国空き家バンク</h1>
+            <p class="subtitle">地方移住を応援する物件情報サイト</p>
+            <div class="stats">
+                <div class="stat-item">
+                    <div class="stat-number" id="totalProperties">-</div>
+                    <div>総物件数</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="totalMunicipalities">-</div>
+                    <div>掲載自治体</div>
+                </div>
+            </div>
+        </header>
+        
+        <div id="properties" class="property-grid">
+            <div class="loading">物件を読み込み中...</div>
+        </div>
+    </div>
+
+    <script>
+        const dataFiles = [
+            "/data/raw/hokuto.json",
+            "/data/raw/iida.json",
+            "/data/raw/athome_nagano.json",
+            "/data/raw/athome_yamanashi.json",
+            "/data/raw/athome_shizuoka.json",
+            "/data/raw/athome_chiba.json"
+        ];
+        
+        Promise.all(dataFiles.map(file => fetch(file).then(r => r.json())))
+            .then(dataArray => {
+                const container = document.getElementById("properties");
+                container.innerHTML = "";
+                
+                let totalProperties = 0;
+                let allProperties = [];
+                
+                dataArray.forEach(data => {
+                    totalProperties += data.count;
+                    allProperties = allProperties.concat(data.properties);
+                });
+                
+                document.getElementById("totalProperties").textContent = totalProperties;
+                document.getElementById("totalMunicipalities").textContent = dataArray.length;
+                
+                allProperties.forEach(property => {
+                    const card = document.createElement("div");
+                    card.className = "property-card";
+                    
+                    let priceDisplay = "価格未定";
+                    if (property.price) {
+                        priceDisplay = (property.price / 10000).toFixed(0) + "万円";
+                    }
+                    
+                    const imageUrl = property.images && property.images.length > 0 ? property.images[0] : "";
+                    
+                    card.innerHTML = `
+                        ${imageUrl ? '<img src="' + imageUrl + '" alt="' + property.title + '" class="property-image">' : '<div class="property-image"></div>'}
+                        <div class="property-info">
+                            <div class="property-title">${property.title}</div>
+                            <div class="property-price">${priceDisplay}</div>
+                            <div class="property-details">
+                                <div class="property-detail-item">📍 ${property.municipality}</div>
+                                ${property.land_area ? '<div class="property-detail-item">📏 土地: ' + property.land_area + '</div>' : ''}
+                                ${property.building_area ? '<div class="property-detail-item">🏠 建物: ' + property.building_area + '</div>' : ''}
+                                ${property.built_year ? '<div class="property-detail-item">📅 ' + property.built_year + '</div>' : ''}
+                            </div>
+                            <a href="${property.url}" target="_blank" class="property-link">詳細を見る →</a>
+                        </div>
+                    `;
+                    
+                    container.appendChild(card);
+                });
+            })
+            .catch(error => {
+                console.error("Error:", error);
+                document.getElementById("properties").innerHTML = '<div class="loading">データの読み込みに失敗しました: ' + error.message + '</div>';
+            });
+    </script>
+</body>
+</html>

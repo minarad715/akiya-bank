@@ -1,0 +1,407 @@
+{
+  "municipality": "栃木県（アットホーム）",
+  "scraped_at": "2026-02-07T03:56:23.699277",
+  "count": 20,
+  "properties": [
+    {
+      "id": "44286",
+      "title": "売戸建真岡市NEW【売買7-8】横田写真7枚南側に広い庭を備えた日当たり良好の木造平屋建住宅。価格300万円間取4DK建物面積74.38㎡土地面積515.7㎡私道負担面積物件種目売戸建築年月1971年",
+      "municipality": "栃木県moka-c09209",
+      "url": "https://moka-c09209.akiya-athome.jp/bukken/detail/buy/44286",
+      "type": "売買",
+      "price": 3000000,
+      "price_raw": "価格300万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=ATvszLJWEZi4C91kTbnjku7DvpfU6sZLbfOAu7EpEyKVzrmi57TxJs2waxW08sPL7T6HfZrkOAiJl9-u9YdGvwicvOXVCMhd9Gi9IjzVo0RDREfyQ8vTolbdkeL0yrtr"
+      ]
+    },
+    {
+      "id": "44738",
+      "title": "売戸建佐野市NEW佐野市　登録番号7-17写真9枚東武佐野線田沼駅 1.1km、田沼行政センター 2.4km、佐野市民病院 1.9km、佐野市立田沼小学校 1.0km、佐野市立田沼東中学校 0.7km",
+      "municipality": "栃木県sano-c09204",
+      "url": "https://sano-c09204.akiya-athome.jp/bukken/detail/buy/44738",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=n221zhO5H9p18beskYuxlGSXTuNzepJekqSNPd60WMPspbj4_OAD49DU-rVDECJl6S4fDmnQ8UDa3SfikNmTL-QYwlvzTZImyzbniLdfeo8wFFZHlx1616qldkloMmmy",
+        "https://img.akiya-athome.jp/?v=My4-PvDXixTDpchwL7NInZXBm8E6tG89D6rXBDiNs7jksycn9JrOe1w5SV_1sV19FarUGVgy5qVN-nrdOKAzmR_KCnV0RPFAqIcTFRKOks6_q9O8xLEVtQMXWQ43KWVS",
+        "https://img.akiya-athome.jp/?v=fSggo0pjS9piaPV1NSxfOwOC8Vz3cFMxZWdEO-gKTu_gg9TeC02Sqdb59Zj9TjT4Ofj7y9aixa6yCPbucC98TXP9cgfjgq3tH7ew1SxWxoaN0KgVQwcSnU-LL-EvrX9k",
+        "https://img.akiya-athome.jp/?v=fSggo0pjS9pJUNclm95x71UktshYKLEx8pdAOKhvSMc8VUMTrQtAUeVVwaaqvLeQ4SLGETyYkL06UtgGgAl09b0JGGxuDnDKrqpbzEwmmdKPnbHpBFDPgqsScEMrJuV6",
+        "https://img.akiya-athome.jp/?v=fSggo0pjS9oE6Irit2xEyFUktshYKLEx8pdAOKhvSMd7NCsAcpElnV9LHWN5CWRSEUZGhT2h2FFIb09ngWnM80W0rcC8r1h05UtJfxPl64t2d7CC5y0XNdEpWfOaf-Mk"
+      ]
+    },
+    {
+      "id": "44706",
+      "title": "売土地矢板市NEWＪＲ東北本線 矢板駅写真4枚価格260万円土地面積364㎡引渡条件相談最適用途-建ぺい率60％容積率200％私道負担面積所在地栃木県矢板市荒井交通ＪＲ東北本線 矢板駅 / 車1.5k",
+      "municipality": "栃木県yaita-c09211",
+      "url": "https://yaita-c09211.akiya-athome.jp/bukken/detail/buy/44706",
+      "type": "売買",
+      "price": 2600000,
+      "price_raw": "価格260万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKkme5w6eUG-k1oQKI0BPjVBrDfJFYVmQORckdtUfB9fT7O42HpJ6Y7o3Em16TV1Z_93sZ4qn0mRBXT3ITRHDGdD_1Uo1DhkIWoeYfV28ippPC6QqVvta_3",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKzSspL0C61DJFCvf8L1SOwAstMegO92SyLR1mLLOGgX9ObRjHpkfnUCgp6zlYMEh4uLCsJa5evlBZaltGSTOKhxSk4y56tQNIX_YvhsEIkF8JtitiKs-jZ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJbjrboQii6aJFCvf8L1SOwAstMegO92Sx7XctnEHjokNOE79MRlC_xCgp6zlYMEh5Lsc6IGOSJXgEbfdwHQXMc5a7Y7cAKMVOLxbFAp64WgcJtitiKs-jZ",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeGed2iJIlvARI1Ug6RYxho02DpCFoALGVlpMvu6jnzka5vAhxnv5SmzHiw2YFOpGkHNp-sAmio5vpHkdmQns34cTaWTD6Z9ld4WEzv9knsqcxG4SOpyJRGY",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKtEHttMYiK0JFCvf8L1SOw9lTAPdMl8mrBraH7vrW2nnTUdUxHo_xWfBLDwl37vXjKi8XxC_ihB3it7TynED1bvh2cWZ9SoDU2iTMze-EVIFaCPCalsK3u",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeGHe4-zj4LTMY1Ug6RYxho02DpCFoALGVkVSm6IsxsTsZvAhxnv5SmzHiw2YFOpGkGX-fkv0h5OfpHkdmQns34cTaWTD6Z9ld4WEzv9knsqcxG4SOpyJRGY"
+      ]
+    },
+    {
+      "id": "44560",
+      "title": "売土地足利市B-25-22 板倉町写真5枚価格397万円土地面積386㎡引渡条件相談最適用途-建ぺい率70％容積率200％私道負担面積所在地栃木県足利市板倉町交通ＪＲ両毛線 小俣駅 / 徒歩35分※ ",
+      "municipality": "栃木県ashikaga-c09202",
+      "url": "https://ashikaga-c09202.akiya-athome.jp/bukken/detail/buy/44560",
+      "type": "売買",
+      "price": 3970000,
+      "price_raw": "価格397万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=ATvszLJWEZi46MC7bkuSo_7DvpfU6sZLbfOAu7EpEyKqNE3F1Nky4Lwec_EdQtn1aBBeeuUSGsQwzvRmXSaJT2znUbTtdI3ynb4ERbEYNeK7vVuvdSPCdVXJguY2SMIv",
+        "https://img.akiya-athome.jp/?v=W4-AHb6np0xxSRyfNoLslyvQ1EMmJo0u9cAeiaf60HJGug1AyMDYnCme4EEtJ_cfY8TGmONLCJpGYxE6w6voRoq3-44IsWYsPDJhaxpOQNPt5GSTaeeqoxhDuucjlEw5",
+        "https://img.akiya-athome.jp/?v=FXvLoEzatkd-tlXd6wXotIqaUVNUri14OQq7QtVHqGOLe9HUi-evlkKh_1TvMqletVSOfYoGKi1IsUGa4mFzUdjMSWkz4dhTNoxv41yn5eZPgMYsfq9HP_9WZ5okMN_8",
+        "https://img.akiya-athome.jp/?v=FXvLoEzatke_ueFs8t8fcLqJ4vTomPUyOTwM6D92tGECMhWboDkx4lg6Gb82CbpYu9EZH7Jd4TPifUChmjT12nzw8PYtF6Nwt92yPJ9YsG_AGqwhRmG2yc_CUtMzeW64"
+      ]
+    },
+    {
+      "id": "44536",
+      "title": "売戸建下野市FT-15 烏ヶ森写真7枚価格2,400万円間取4LDK建物面積125.07㎡土地面積227.08㎡私道負担面積物件種目売戸建築年月1998年3月所在地栃木県下野市烏ケ森１丁目交通ＪＲ東北",
+      "municipality": "栃木県shimotsuke-c09216",
+      "url": "https://shimotsuke-c09216.akiya-athome.jp/bukken/detail/buy/44536",
+      "type": "売買",
+      "price": 24000000,
+      "price_raw": "価格2,400万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=ATvszLJWEZiKJYdis5zIQrjmGmRogHNswTJ4VcGIX3NdtJEtcH82lplWVSXs-uSLsKloCk8YU5y7PVmnzpWpfaUso-7Mo2BodX6R9czKOajajVhZSDWZLKKJBA1KT1cy",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxJpWkxZHchDr-QEV_VNebYAZyxj7_mzJ0sUYgHD9s1tpJ9vZRFsScMBhT-WW3gKSdSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6"
+      ]
+    },
+    {
+      "id": "43917",
+      "title": "売戸建下都賀郡壬生町Ｓ４３写真7枚★広々とした敷地の平家物件です。★一室が広々とした開放感のある間取りです。価格2,630万円間取3SLDK建物面積142.48㎡土地面積667.96㎡私道負担面積物件",
+      "municipality": "栃木県mibu-t09361",
+      "url": "https://mibu-t09361.akiya-athome.jp/bukken/detail/buy/43917",
+      "type": "売買",
+      "price": 26300000,
+      "price_raw": "価格2,630万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=0bscUUllJeHQb3_bh_8uuuOfK8UM0BZfwyVg5Ba4uLEk1gdrvpCebTEw4VmF2ucJPLZ3ldtnA9cPsNeM6dSBENs2kyGsRcX8o8vxj4E9NPvKtHy8WUnxAE3E4b3OhQfl",
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVi6Rk3C_gV7TjkddVw_0jg-mJpA0Hs45Imz3kYT_pfGS0hm7KBb2AQad_WilxqcVFYLrdfJ5lKk4ABtVGJ0yNqV2Ll2pGsbQUcO-68GKC_dl4cCHfPUBT6P",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeFVn7AyyAotcA2JhmRJtJFB7EMWiXfwaIT-dmfEn2mHfKIdVVVoenP_dq1x4RDazYBxf1X48xnDYI8K0zBcCqCqydJBCJNC02H_Eneoi42Khoj0HxiLr-vU"
+      ]
+    },
+    {
+      "id": "44311",
+      "title": "売戸建佐野市佐野市　登録番号7-14写真9枚東武佐野線佐野市駅2.4km、佐野市役所2.5km、佐野厚生総合病院4.5km、佐野市立界小学校2.5km、佐野市立南中学校1.7km、スーパーマーケット0",
+      "municipality": "栃木県sano-c09204",
+      "url": "https://sano-c09204.akiya-athome.jp/bukken/detail/buy/44311",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=n221zhO5H9p18beskYuxlGSXTuNzepJekqSNPd60WMPspbj4_OAD49DU-rVDECJl6S4fDmnQ8UDa3SfikNmTL-QYwlvzTZImyzbniLdfeo8wFFZHlx1616qldkloMmmy",
+        "https://img.akiya-athome.jp/?v=My4-PvDXixTDpchwL7NInZXBm8E6tG89D6rXBDiNs7jksycn9JrOe1w5SV_1sV19FarUGVgy5qVN-nrdOKAzmR_KCnV0RPFAqIcTFRKOks6_q9O8xLEVtQMXWQ43KWVS",
+        "https://img.akiya-athome.jp/?v=fSggo0pjS9piaPV1NSxfOwOC8Vz3cFMxZWdEO-gKTu_gg9TeC02Sqdb59Zj9TjT4Ofj7y9aixa6yCPbucC98TXP9cgfjgq3tH7ew1SxWxoaN0KgVQwcSnU-LL-EvrX9k",
+        "https://img.akiya-athome.jp/?v=fSggo0pjS9pJUNclm95x71UktshYKLEx8pdAOKhvSMc8VUMTrQtAUeVVwaaqvLeQ4SLGETyYkL06UtgGgAl09b0JGGxuDnDKrqpbzEwmmdKPnbHpBFDPgqsScEMrJuV6",
+        "https://img.akiya-athome.jp/?v=fSggo0pjS9oE6Irit2xEyFUktshYKLEx8pdAOKhvSMd7NCsAcpElnV9LHWN5CWRSEUZGhT2h2FFIb09ngWnM80W0rcC8r1h05UtJfxPl64t2d7CC5y0XNdEpWfOaf-Mk"
+      ]
+    },
+    {
+      "id": "44228",
+      "title": "売戸建足利市B-24-24 通2丁目写真8枚価格980万円間取4DK建物面積143.25㎡土地面積55.09㎡私道負担面積物件種目売戸建築年月1990年4月所在地栃木県足利市通２丁目交通ＪＲ両毛線 足",
+      "municipality": "栃木県ashikaga-c09202",
+      "url": "https://ashikaga-c09202.akiya-athome.jp/bukken/detail/buy/44228",
+      "type": "売買",
+      "price": 9800000,
+      "price_raw": "価格980万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=ATvszLJWEZi46MC7bkuSo_7DvpfU6sZLbfOAu7EpEyKqNE3F1Nky4Lwec_EdQtn1aBBeeuUSGsQwzvRmXSaJT2znUbTtdI3ynb4ERbEYNeK7vVuvdSPCdVXJguY2SMIv",
+        "https://img.akiya-athome.jp/?v=W4-AHb6np0xxSRyfNoLslyvQ1EMmJo0u9cAeiaf60HJGug1AyMDYnCme4EEtJ_cfY8TGmONLCJpGYxE6w6voRoq3-44IsWYsPDJhaxpOQNPt5GSTaeeqoxhDuucjlEw5",
+        "https://img.akiya-athome.jp/?v=FXvLoEzatkd-tlXd6wXotIqaUVNUri14OQq7QtVHqGOLe9HUi-evlkKh_1TvMqletVSOfYoGKi1IsUGa4mFzUdjMSWkz4dhTNoxv41yn5eZPgMYsfq9HP_9WZ5okMN_8",
+        "https://img.akiya-athome.jp/?v=FXvLoEzatke_ueFs8t8fcLqJ4vTomPUyOTwM6D92tGECMhWboDkx4lg6Gb82CbpYu9EZH7Jd4TPifUChmjT12nzw8PYtF6Nwt92yPJ9YsG_AGqwhRmG2yc_CUtMzeW64"
+      ]
+    },
+    {
+      "id": "43919",
+      "title": "売戸建那須郡那須町那須町空き家バンクNo136（寺子丙）写真16枚黒田原駅まで1km未満。アクセス性の良い物件ですバルコニーも広く、収納スペースも充実しています。部屋数も多く、子育て世帯や定住者にオス",
+      "municipality": "栃木県nasu-t09407",
+      "url": "https://nasu-t09407.akiya-athome.jp/bukken/detail/buy/43919",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=p-A4-wSkwokXn5t0YzMKpEsHcKMmkolF5YpeIDxAYKGGNYg_PqkWbOZJegEsXt7DqVmVJcbVArZmU7tO8VJFfraLeCtJ8oxOEObqYe54jkUSIRoRAd10QdtivWNjHhe1",
+        "https://img.akiya-athome.jp/?v=s1xXwfbj00ImR7-x_mEVuaT7cs0V4aHfAkDxWB_exyawomT-CsXRqmwJ-eA3XLmAzfzp_3BfwuR6WkuVanShdw8vq9JEE2kaZIrKVRBkziW35TYP5NnjGFonpbGQDLBt",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln2RjjZnvldhLwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln-K7BfKkLZi4wjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln0XBG162qF-AwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln7GQWwkuD42RwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0."
+      ]
+    },
+    {
+      "id": "44018",
+      "title": "売土地矢板市7-107写真3枚価格200万円土地面積332㎡引渡条件相談最適用途-建ぺい率-容積率-私道負担面積所在地栃木県矢板市中交通ＪＲ東北本線 矢板駅 / 車1.6km※ 詳細を見る",
+      "municipality": "栃木県yaita-c09211",
+      "url": "https://yaita-c09211.akiya-athome.jp/bukken/detail/buy/44018",
+      "type": "売買",
+      "price": 2000000,
+      "price_raw": "価格200万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKkme5w6eUG-k1oQKI0BPjVBrDfJFYVmQORckdtUfB9fT7O42HpJ6Y7o3Em16TV1Z_93sZ4qn0mRBXT3ITRHDGdD_1Uo1DhkIWoeYfV28ippPC6QqVvta_3",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKzSspL0C61DJFCvf8L1SOwAstMegO92SyLR1mLLOGgX9ObRjHpkfnUCgp6zlYMEh4uLCsJa5evlBZaltGSTOKhxSk4y56tQNIX_YvhsEIkF8JtitiKs-jZ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJbjrboQii6aJFCvf8L1SOwAstMegO92Sx7XctnEHjokNOE79MRlC_xCgp6zlYMEh5Lsc6IGOSJXgEbfdwHQXMc5a7Y7cAKMVOLxbFAp64WgcJtitiKs-jZ",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeGed2iJIlvARI1Ug6RYxho02DpCFoALGVlpMvu6jnzka5vAhxnv5SmzHiw2YFOpGkHNp-sAmio5vpHkdmQns34cTaWTD6Z9ld4WEzv9knsqcxG4SOpyJRGY",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKtEHttMYiK0JFCvf8L1SOw9lTAPdMl8mrBraH7vrW2nnTUdUxHo_xWfBLDwl37vXjKi8XxC_ihB3it7TynED1bvh2cWZ9SoDU2iTMze-EVIFaCPCalsK3u",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeGHe4-zj4LTMY1Ug6RYxho02DpCFoALGVkVSm6IsxsTsZvAhxnv5SmzHiw2YFOpGkGX-fkv0h5OfpHkdmQns34cTaWTD6Z9ld4WEzv9knsqcxG4SOpyJRGY"
+      ]
+    },
+    {
+      "id": "42128",
+      "title": "売戸建芳賀郡茂木町物件330写真1枚自然豊か見晴らしの良い平屋建て住宅価格800万円間取5K建物面積121.13㎡土地面積面積不明私道負担面積物件種目売戸建築年月1980年11月所在地栃木県芳賀郡茂木",
+      "municipality": "栃木県motegi-t09343",
+      "url": "https://motegi-t09343.akiya-athome.jp/bukken/detail/buy/42128",
+      "type": "売買",
+      "price": 8000000,
+      "price_raw": "価格800万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUoK2gEI3T6wXb1COjbqLcqLGKZM3YFIlkq5oppG47IBI9CiTvHi-8jciCiL4vFpEcyiKp1jDQnZhkXuUj8SduzGb6qc-JObopnZxDcfDbftr",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYAxGSDkRhEuasUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYBC_AdZLXBlrsUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYMeZv2gFOvG0sUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYPD0Ks40utQJsUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYCDYMLoBnaSssUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYCKoQlcSZQc8sUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=p-A4-wSkwolK7rHLvjD2PedxVweiHl6fb2SF1xVoqnKT3u_bX9MWsZDn1a6YMnr2Qw8q4GS0NJDTBqZ71VTVfyl3XMw73eIpCR_LEmWPIEDjfIMtJ-Mx1rGKnZ7lN_RE"
+      ]
+    },
+    {
+      "id": "43935",
+      "title": "売戸建芳賀郡茂木町物件【335】写真1枚日当たり良好！庭・駐車スペースあり４LDK二階建住宅価格580万円間取4LDK建物面積105.16㎡土地面積233.04㎡私道負担面積物件種目売戸建築年月不詳所",
+      "municipality": "栃木県motegi-t09343",
+      "url": "https://motegi-t09343.akiya-athome.jp/bukken/detail/buy/43935",
+      "type": "売買",
+      "price": 5800000,
+      "price_raw": "価格580万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUoK2gEI3T6wXb1COjbqLcqLGKZM3YFIlkq5oppG47IBI9CiTvHi-8jciCiL4vFpEcyiKp1jDQnZhkXuUj8SduzGb6qc-JObopnZxDcfDbftr",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYAxGSDkRhEuasUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYBC_AdZLXBlrsUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYMeZv2gFOvG0sUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYPD0Ks40utQJsUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYCDYMLoBnaSssUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxLTk63wn_U_P-QEV_VNebYCKoQlcSZQc8sUYgHD9s1tpJ9vZRFsScMOYstbckrxLJSjHI0PAqUXxRFWdyHTAY42LzzPGpvpv6",
+        "https://img.akiya-athome.jp/?v=p-A4-wSkwolK7rHLvjD2PedxVweiHl6fb2SF1xVoqnKT3u_bX9MWsZDn1a6YMnr2Qw8q4GS0NJDTBqZ71VTVfyl3XMw73eIpCR_LEmWPIEDjfIMtJ-Mx1rGKnZ7lN_RE"
+      ]
+    },
+    {
+      "id": "43879",
+      "title": "売土地足利市B-25-23 大月町写真2枚◎商業施設が近く生活に便利な立地です！[ショッピングセンター]アシコタウンあしかがまで530ｍ価格490万円土地面積330㎡引渡条件相談最適用途-建ぺい率60",
+      "municipality": "栃木県ashikaga-c09202",
+      "url": "https://ashikaga-c09202.akiya-athome.jp/bukken/detail/buy/43879",
+      "type": "売買",
+      "price": 4900000,
+      "price_raw": "価格490万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=ATvszLJWEZi46MC7bkuSo_7DvpfU6sZLbfOAu7EpEyKqNE3F1Nky4Lwec_EdQtn1aBBeeuUSGsQwzvRmXSaJT2znUbTtdI3ynb4ERbEYNeK7vVuvdSPCdVXJguY2SMIv",
+        "https://img.akiya-athome.jp/?v=W4-AHb6np0xxSRyfNoLslyvQ1EMmJo0u9cAeiaf60HJGug1AyMDYnCme4EEtJ_cfY8TGmONLCJpGYxE6w6voRoq3-44IsWYsPDJhaxpOQNPt5GSTaeeqoxhDuucjlEw5",
+        "https://img.akiya-athome.jp/?v=FXvLoEzatkd-tlXd6wXotIqaUVNUri14OQq7QtVHqGOLe9HUi-evlkKh_1TvMqletVSOfYoGKi1IsUGa4mFzUdjMSWkz4dhTNoxv41yn5eZPgMYsfq9HP_9WZ5okMN_8",
+        "https://img.akiya-athome.jp/?v=FXvLoEzatke_ueFs8t8fcLqJ4vTomPUyOTwM6D92tGECMhWboDkx4lg6Gb82CbpYu9EZH7Jd4TPifUChmjT12nzw8PYtF6Nwt92yPJ9YsG_AGqwhRmG2yc_CUtMzeW64"
+      ]
+    },
+    {
+      "id": "43618",
+      "title": "売戸建下都賀郡壬生町Ｓ４２写真5枚★住宅街にある、駅まで徒歩３分の平家物件です。★コンビニ、スーパー、郵便局等が徒歩圏内にある物件です。価格800万円間取4LDK建物面積106.6㎡土地面積333.8",
+      "municipality": "栃木県mibu-t09361",
+      "url": "https://mibu-t09361.akiya-athome.jp/bukken/detail/buy/43618",
+      "type": "売買",
+      "price": 8000000,
+      "price_raw": "価格800万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=0bscUUllJeHQb3_bh_8uuuOfK8UM0BZfwyVg5Ba4uLEk1gdrvpCebTEw4VmF2ucJPLZ3ldtnA9cPsNeM6dSBENs2kyGsRcX8o8vxj4E9NPvKtHy8WUnxAE3E4b3OhQfl",
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVi6Rk3C_gV7TjkddVw_0jg-mJpA0Hs45Imz3kYT_pfGS0hm7KBb2AQad_WilxqcVFYLrdfJ5lKk4ABtVGJ0yNqV2Ll2pGsbQUcO-68GKC_dl4cCHfPUBT6P",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeFVn7AyyAotcA2JhmRJtJFB7EMWiXfwaIT-dmfEn2mHfKIdVVVoenP_dq1x4RDazYBxf1X48xnDYI8K0zBcCqCqydJBCJNC02H_Eneoi42Khoj0HxiLr-vU"
+      ]
+    },
+    {
+      "id": "43130",
+      "title": "売戸建那須郡那須町那須町空き家バンクNo101（高久乙）写真15枚那須温泉郷に近接する別荘地【平和郷】20帖を超えるリビングダイニング。小上がりの囲炉裏スペースあり。緑豊かなエリア。夏は木漏れ日が入っ",
+      "municipality": "栃木県nasu-t09407",
+      "url": "https://nasu-t09407.akiya-athome.jp/bukken/detail/buy/43130",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=p-A4-wSkwokXn5t0YzMKpEsHcKMmkolF5YpeIDxAYKGGNYg_PqkWbOZJegEsXt7DqVmVJcbVArZmU7tO8VJFfraLeCtJ8oxOEObqYe54jkUSIRoRAd10QdtivWNjHhe1",
+        "https://img.akiya-athome.jp/?v=s1xXwfbj00ImR7-x_mEVuaT7cs0V4aHfAkDxWB_exyawomT-CsXRqmwJ-eA3XLmAzfzp_3BfwuR6WkuVanShdw8vq9JEE2kaZIrKVRBkziW35TYP5NnjGFonpbGQDLBt",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln2RjjZnvldhLwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln-K7BfKkLZi4wjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln0XBG162qF-AwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln7GQWwkuD42RwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0."
+      ]
+    },
+    {
+      "id": "43149",
+      "title": "売戸建那須郡那須町那須町空き家バンクNo.123（高久甲）写真7枚最寄り駅から徒歩3分。那須高原までは車で10分。利便性の高い立地でありアウトドア気分やDIYを楽しめる環境です。自由度の高い物件をお探",
+      "municipality": "栃木県nasu-t09407",
+      "url": "https://nasu-t09407.akiya-athome.jp/bukken/detail/buy/43149",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=p-A4-wSkwokXn5t0YzMKpEsHcKMmkolF5YpeIDxAYKGGNYg_PqkWbOZJegEsXt7DqVmVJcbVArZmU7tO8VJFfraLeCtJ8oxOEObqYe54jkUSIRoRAd10QdtivWNjHhe1",
+        "https://img.akiya-athome.jp/?v=s1xXwfbj00ImR7-x_mEVuaT7cs0V4aHfAkDxWB_exyawomT-CsXRqmwJ-eA3XLmAzfzp_3BfwuR6WkuVanShdw8vq9JEE2kaZIrKVRBkziW35TYP5NnjGFonpbGQDLBt",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln2RjjZnvldhLwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln-K7BfKkLZi4wjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln0XBG162qF-AwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln7GQWwkuD42RwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0."
+      ]
+    },
+    {
+      "id": "43140",
+      "title": "売戸建那須郡那須町那須町空き家バンクNo.107（高久甲）写真11枚広い庭を持つ、那須高原の物件！住居の状態は良く、リフォームなしで入居可能。広い庭は自分たちでアレンジ可能です。定住・別荘どちらもおす",
+      "municipality": "栃木県nasu-t09407",
+      "url": "https://nasu-t09407.akiya-athome.jp/bukken/detail/buy/43140",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=p-A4-wSkwokXn5t0YzMKpEsHcKMmkolF5YpeIDxAYKGGNYg_PqkWbOZJegEsXt7DqVmVJcbVArZmU7tO8VJFfraLeCtJ8oxOEObqYe54jkUSIRoRAd10QdtivWNjHhe1",
+        "https://img.akiya-athome.jp/?v=s1xXwfbj00ImR7-x_mEVuaT7cs0V4aHfAkDxWB_exyawomT-CsXRqmwJ-eA3XLmAzfzp_3BfwuR6WkuVanShdw8vq9JEE2kaZIrKVRBkziW35TYP5NnjGFonpbGQDLBt",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln2RjjZnvldhLwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln-K7BfKkLZi4wjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln0XBG162qF-AwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln7GQWwkuD42RwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0."
+      ]
+    },
+    {
+      "id": "43481",
+      "title": "売戸建那須郡那須町那須町空き家バンクNo129（高久丙）写真15枚天井が高い広々としたリビングが特徴の物件です。定住にもオススメです。・りんどう湖に近接する立地。那須高原の観光地へのアクセスも良好です",
+      "municipality": "栃木県nasu-t09407",
+      "url": "https://nasu-t09407.akiya-athome.jp/bukken/detail/buy/43481",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=p-A4-wSkwokXn5t0YzMKpEsHcKMmkolF5YpeIDxAYKGGNYg_PqkWbOZJegEsXt7DqVmVJcbVArZmU7tO8VJFfraLeCtJ8oxOEObqYe54jkUSIRoRAd10QdtivWNjHhe1",
+        "https://img.akiya-athome.jp/?v=s1xXwfbj00ImR7-x_mEVuaT7cs0V4aHfAkDxWB_exyawomT-CsXRqmwJ-eA3XLmAzfzp_3BfwuR6WkuVanShdw8vq9JEE2kaZIrKVRBkziW35TYP5NnjGFonpbGQDLBt",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln2RjjZnvldhLwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln-K7BfKkLZi4wjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln0XBG162qF-AwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln7GQWwkuD42RwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0."
+      ]
+    },
+    {
+      "id": "43142",
+      "title": "売戸建那須郡那須町那須町空き家バンクNo116（伊王野）写真15枚歴史と自然が息づく伊王野エリアにある築50年超の物件150平方メートルと大きな物件。DIYを通して、自分にカスタマイズされた住まいをご",
+      "municipality": "栃木県nasu-t09407",
+      "url": "https://nasu-t09407.akiya-athome.jp/bukken/detail/buy/43142",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=p-A4-wSkwokXn5t0YzMKpEsHcKMmkolF5YpeIDxAYKGGNYg_PqkWbOZJegEsXt7DqVmVJcbVArZmU7tO8VJFfraLeCtJ8oxOEObqYe54jkUSIRoRAd10QdtivWNjHhe1",
+        "https://img.akiya-athome.jp/?v=s1xXwfbj00ImR7-x_mEVuaT7cs0V4aHfAkDxWB_exyawomT-CsXRqmwJ-eA3XLmAzfzp_3BfwuR6WkuVanShdw8vq9JEE2kaZIrKVRBkziW35TYP5NnjGFonpbGQDLBt",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln2RjjZnvldhLwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln-K7BfKkLZi4wjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln0XBG162qF-AwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0.",
+        "https://img.akiya-athome.jp/?v=fV1yliqBtC9-2Pw-pn3rUpq7L2UN3wHxvg7VxhV-NVVkU97CXCkln7GQWwkuD42RwjNJptnli9ISVYZ0WVA4UBXQ9V_PHgjrlQVggQWftT20DiLhJa4YckrlMWXuzrDhWazwSa4zBG0."
+      ]
+    },
+    {
+      "id": "43509",
+      "title": "売戸建佐野市佐野市　登録番号7-10写真9枚東武佐野線葛生駅1.7km　・葛生行政センター1.3km　・佐野市民病院6.0km　・佐野市立葛生義務教育学校0.2km　・スーパー2.1km価格680万円",
+      "municipality": "栃木県sano-c09204",
+      "url": "https://sano-c09204.akiya-athome.jp/bukken/detail/buy/43509",
+      "type": "売買",
+      "price": 6800000,
+      "price_raw": "価格680万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=n221zhO5H9p18beskYuxlGSXTuNzepJekqSNPd60WMPspbj4_OAD49DU-rVDECJl6S4fDmnQ8UDa3SfikNmTL-QYwlvzTZImyzbniLdfeo8wFFZHlx1616qldkloMmmy",
+        "https://img.akiya-athome.jp/?v=My4-PvDXixTDpchwL7NInZXBm8E6tG89D6rXBDiNs7jksycn9JrOe1w5SV_1sV19FarUGVgy5qVN-nrdOKAzmR_KCnV0RPFAqIcTFRKOks6_q9O8xLEVtQMXWQ43KWVS",
+        "https://img.akiya-athome.jp/?v=fSggo0pjS9piaPV1NSxfOwOC8Vz3cFMxZWdEO-gKTu_gg9TeC02Sqdb59Zj9TjT4Ofj7y9aixa6yCPbucC98TXP9cgfjgq3tH7ew1SxWxoaN0KgVQwcSnU-LL-EvrX9k",
+        "https://img.akiya-athome.jp/?v=fSggo0pjS9pJUNclm95x71UktshYKLEx8pdAOKhvSMc8VUMTrQtAUeVVwaaqvLeQ4SLGETyYkL06UtgGgAl09b0JGGxuDnDKrqpbzEwmmdKPnbHpBFDPgqsScEMrJuV6",
+        "https://img.akiya-athome.jp/?v=fSggo0pjS9oE6Irit2xEyFUktshYKLEx8pdAOKhvSMd7NCsAcpElnV9LHWN5CWRSEUZGhT2h2FFIb09ngWnM80W0rcC8r1h05UtJfxPl64t2d7CC5y0XNdEpWfOaf-Mk"
+      ]
+    }
+  ]
+}

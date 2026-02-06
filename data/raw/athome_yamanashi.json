@@ -1,0 +1,383 @@
+{
+  "municipality": "山梨県（アットホーム）",
+  "scraped_at": "2026-02-07T00:57:34.182446",
+  "count": 20,
+  "properties": [
+    {
+      "id": "44726",
+      "title": "売土地甲府市NEW羽黒町　土地写真6枚小学校・最寄りバス停徒歩3分圏内、安価、上下水道宅内引込済み、日当たり○価格324万円土地面積162.4㎡引渡条件相談最適用途-建ぺい率60％容積率100％私道負",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/44726",
+      "type": "売買",
+      "price": 3240000,
+      "price_raw": "価格324万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "44586",
+      "title": "売戸建甲府市貢川2丁目　戸建写真10枚平成30年リフォーム済みの物件です価格2,300万円間取5LDK建物面積199.18㎡土地面積482.8㎡私道負担面積物件種目売戸建築年月1988年3月所在地山梨",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/44586",
+      "type": "売買",
+      "price": 23000000,
+      "price_raw": "価格2,300万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "44585",
+      "title": "売戸建甲府市中央4丁目　戸建写真3枚好立地な銀座通りの店舗です価格985万円間取不明建物面積128.9㎡土地面積111.26㎡私道負担面積物件種目売戸建築年月不詳所在地山梨県甲府市中央４丁目交通ＪＲ中",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/44585",
+      "type": "売買",
+      "price": 9850000,
+      "price_raw": "価格985万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "44565",
+      "title": "売戸建笛吹市売戸建住宅【26-01-01】写真3枚価格1,430万円間取不明建物面積94.21㎡土地面積662.16㎡私道負担面積物件種目売戸建築年月不詳所在地山梨県笛吹市八代町米倉交通ＪＲ中央本線 ",
+      "municipality": "長野県fuefuki-c19211",
+      "url": "https://fuefuki-c19211.akiya-athome.jp/bukken/detail/buy/44565",
+      "type": "売買",
+      "price": 14300000,
+      "price_raw": "価格1,430万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=6FCr8Jljroa-nrEUPMq3APnxDPxCH7z-6vb-_BX7fh8AVJRsNXufsN5X1gs0qzD2_FbM5RYLn03LjfGgGXYOlIeONzq3ofpzWf8x2yezvYZ8f6geiKjMnJTx1Qu6QHh9"
+      ]
+    },
+    {
+      "id": "44265",
+      "title": "売戸建甲府市青沼2丁目　戸建写真2枚価格580万円間取3DK建物面積66.29㎡土地面積124.28㎡私道負担面積物件種目売戸建築年月1969年9月所在地山梨県甲府市青沼２丁目交通ＪＲ身延線 金手駅 ",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/44265",
+      "type": "売買",
+      "price": 5800000,
+      "price_raw": "価格580万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "44197",
+      "title": "売土地甲府市酒折1丁目　土地写真4枚駅・バス停徒歩圏内、スーパー・コンビニエンスストアー徒歩圏内、安価価格500万円土地面積148.03㎡引渡条件相談最適用途-建ぺい率60％容積率200％私道負担面積",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/44197",
+      "type": "売買",
+      "price": 5000000,
+      "price_raw": "価格500万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "44203",
+      "title": "売戸建都留市No.159　十日市場の物件写真19枚価格1,300万円間取9DK建物面積107㎡土地面積354㎡私道負担面積物件種目売戸建築年月不詳所在地山梨県都留市十日市場交通富士急行 十日市場駅 /",
+      "municipality": "長野県tsuru-c19204",
+      "url": "https://tsuru-c19204.akiya-athome.jp/bukken/detail/buy/44203",
+      "type": "売買",
+      "price": 13000000,
+      "price_raw": "価格1,300万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVizx_x1T_IrkRLV4fGeWr9p8DOrzoSe4JOR9F3l2DSawg29QYyUvE-4BVyxIbxCVUHMWUxUazKOdU8vq2mpKaXj5QNOjOC7KUw6hTVUfA3n9qvU0-Fb3uRk",
+        "https://img.akiya-athome.jp/?v=s1xXwfbj00LmzdDFBvCrk6T7cs0V4aHfAkDxWB_exyYBKU3B4POqOPAWglhNzYiOu2Xg3PcaedquPX72Zwdehbj-juQSWS1_ZIk77U2yLsg-TgRfP6_M7rMaQo-ix1Nb",
+        "https://img.akiya-athome.jp/?v=s1xXwfbj00IZ_04Ou2oiRqT7cs0V4aHfAkDxWB_exyZ96yAoMp4Q6WwJ-eA3XLmASuCIaecgxYTYtP005NA8JA8vq9JEE2kakZMEX6LnQdC35TYP5NnjGFonpbGQDLBt",
+        "https://img.akiya-athome.jp/?v=Q7abLXzb4SZdCMfHk2wYWSd3r431vpCO8WbJPOBcghFHErTpaPEIPXjt9IHVBQw3PeRv53wCCSRhnLexRaFbppgeWBTrOlnLSwqUBpKOCFPxpkjWX6n3sS1LDmkAyGlD",
+        "https://img.akiya-athome.jp/?v=s1xXwfbj00I45uUAPmXtVqT7cs0V4aHfAkDxWB_exyaJPdusXr2oDGwJ-eA3XLmAFsc902aPe7AQ0Wf7E2hcJQ8vq9JEE2kanLMDJtT3eF_tkBvjEEtXmR7JfMM2Jdb8"
+      ]
+    },
+    {
+      "id": "44175",
+      "title": "売戸建韮崎市ＪＲ中央本線 韮崎駅写真9枚2Fから富士山眺望可能駅近、学校・スーパーマーケットも至近距離内価格800万円間取4DK建物面積104.36㎡土地面積210.87㎡私道負担面積物件種目売戸建築",
+      "municipality": "長野県nirasaki-c19207",
+      "url": "https://nirasaki-c19207.akiya-athome.jp/bukken/detail/buy/44175",
+      "type": "売買",
+      "price": 8000000,
+      "price_raw": "価格800万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNnhGSltVVdFEWFMej6yFllC0HTkUpHbfxHyw-Xr588P90QDy768aUjFx7aihdD3h4imZoQ0mL91N0QjKeH_o-LhDznA_AlI3w7N-7nVAMvKRIFolrV7GukX"
+      ]
+    },
+    {
+      "id": "44129",
+      "title": "売戸建甲府市山宮町　戸建写真6枚南側には建物がなく、採光・通風に優れ、眺めがよく、心地よいお部屋です。価格380万円間取3DK建物面積66.24㎡土地面積246.78㎡私道負担面積物件種目売戸建築年月",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/44129",
+      "type": "売買",
+      "price": 3800000,
+      "price_raw": "価格380万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "44107",
+      "title": "売戸建笛吹市売戸建住宅【25-06-01】写真2枚価格1,319万円間取不明建物面積113.17㎡土地面積948.04㎡私道負担面積物件種目売戸建築年月不詳所在地山梨県笛吹市境川町小山交通ＪＲ中央本線",
+      "municipality": "長野県fuefuki-c19211",
+      "url": "https://fuefuki-c19211.akiya-athome.jp/bukken/detail/buy/44107",
+      "type": "売買",
+      "price": 13190000,
+      "price_raw": "価格1,319万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=6FCr8Jljroa-nrEUPMq3APnxDPxCH7z-6vb-_BX7fh8AVJRsNXufsN5X1gs0qzD2_FbM5RYLn03LjfGgGXYOlIeONzq3ofpzWf8x2yezvYZ8f6geiKjMnJTx1Qu6QHh9"
+      ]
+    },
+    {
+      "id": "44054",
+      "title": "売戸建笛吹市売戸建住宅【25-12-01】写真3枚価格995万円間取不明建物面積110.07㎡土地面積210.15㎡私道負担面積物件種目売戸建築年月1992年2月所在地山梨県笛吹市石和町下平井交通ＪＲ",
+      "municipality": "長野県fuefuki-c19211",
+      "url": "https://fuefuki-c19211.akiya-athome.jp/bukken/detail/buy/44054",
+      "type": "売買",
+      "price": 9950000,
+      "price_raw": "価格995万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=6FCr8Jljroa-nrEUPMq3APnxDPxCH7z-6vb-_BX7fh8AVJRsNXufsN5X1gs0qzD2_FbM5RYLn03LjfGgGXYOlIeONzq3ofpzWf8x2yezvYZ8f6geiKjMnJTx1Qu6QHh9"
+      ]
+    },
+    {
+      "id": "43973",
+      "title": "売戸建甲府市上町　戸建写真8枚オール電化4LDK、カーポート付き駐車場有、徒歩15分圏内に生活利便施設が充実価格2,330万円間取4LDK建物面積105.99㎡土地面積168.19㎡私道負担面積物件種",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/43973",
+      "type": "売買",
+      "price": 23300000,
+      "price_raw": "価格2,330万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "43969",
+      "title": "売戸建甲府市国母2丁目　戸建て写真9枚閑静な住宅地の一角にあり、買い物・交通・環境に優れている住宅です。価格280万円間取3DK建物面積86.31㎡土地面積131.55㎡私道負担面積物件種目売戸建築年",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/43969",
+      "type": "売買",
+      "price": 2800000,
+      "price_raw": "価格280万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "43963",
+      "title": "売土地甲府市千塚4丁目　土地写真3枚価格700万円土地面積387.55㎡引渡条件相談最適用途-建ぺい率60％容積率200％私道負担面積所在地山梨県甲府市千塚４丁目交通ＪＲ中央本線 甲府駅 / 車10分",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/43963",
+      "type": "売買",
+      "price": 7000000,
+      "price_raw": "価格700万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "43895",
+      "title": "売戸建甲府市城東5丁目　戸建写真3枚駅・バス停徒歩圏内、スーパー・コンビニエンスストアー徒歩圏内、安価価格350万円間取5DK建物面積103.58㎡土地面積118.42㎡私道負担面積物件種目売戸建築年",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/43895",
+      "type": "売買",
+      "price": 3500000,
+      "price_raw": "価格350万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "43885",
+      "title": "売戸建甲府市下曽根町　戸建写真7枚敷地内にバス停あり、土地面積171坪、南甲府ICまで1.5キロ価格480万円間取2LDK建物面積69.41㎡土地面積567.53㎡私道負担面積物件種目売戸建築年月不詳",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/43885",
+      "type": "売買",
+      "price": 4800000,
+      "price_raw": "価格480万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "43748",
+      "title": "売戸建甲府市塩部3丁目　戸建写真11枚閑静な住宅街に立地する古家付き土地。幹線道路にも近く、利便性良好。価格100万円間取5DK建物面積面積不明土地面積133.85㎡私道負担面積物件種目売戸建築年月不",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/43748",
+      "type": "売買",
+      "price": 1000000,
+      "price_raw": "価格100万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "43560",
+      "title": "売戸建甲府市山宮町　戸建写真3枚価格650万円間取4DK建物面積114.66㎡土地面積195.62㎡私道負担面積物件種目売戸建築年月1979年6月所在地山梨県甲府市山宮町交通ＪＲ中央本線 甲府駅 / ",
+      "municipality": "長野県kofu-c19201",
+      "url": "https://kofu-c19201.akiya-athome.jp/bukken/detail/buy/43560",
+      "type": "売買",
+      "price": 6500000,
+      "price_raw": "価格650万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlcaTBANpi1JrfksapLdIyZY7bB6ALKcfAh2pqM_foCujC4jA0J7zBRbaSiHdEdkSj4FkQg1c72elO7vWCN_YoVirtXE9tu55P2XTmiDHhFHymc6apcfFkW",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULi_w5-D8hj-HMFAYaiRq_7SKVoet0-b7yuUD7dqEtE2nKpN_ZE_vX8vHOii3NPkwPATMTnn0U2zhKfFq1-J66Bru_l2yQq49j7T8SvWvq0RbgEe395uqhe",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIm8bdbmhcQSnMFAYaiRq_7442fm6dApIEipBD9K4v44XqhyNniExkWwQYCL1H_IQmDe7f9xsXLwK4bKfgcm70FKEPTL0I1ldN9wgv85PkNUWOHm8JoXux8",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE6yslL8vmjFM5s75bWrnqUw7sy1A9zsZzzvHSPBEBEHIkEK_hkIjwgMomECe1vOI34luhownFSKuDwXzu2RJ41D9R9lfimOXozOznFSTu8mhnI0Z1zbbUJ",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUKJbSQqkzDvonMFAYaiRq_7442fm6dApIGuzfRPUfIsE3qhyNniExkWro0WANzxGyK22ukOOs5BxYu1g5pC1O0ELxCr2ZPZB4MS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "43520",
+      "title": "売土地南巨摩郡身延町売土地【NO.35】写真3枚身延駅近くアクセス便利。※物件詳細は【身延町空き家バンク利用登録】をしていただいた後でのご案内となります。価格300万円土地面積318.95㎡引渡条件相",
+      "municipality": "長野県minobu-t19365",
+      "url": "https://minobu-t19365.akiya-athome.jp/bukken/detail/buy/43520",
+      "type": "売買",
+      "price": 3000000,
+      "price_raw": "価格300万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNmrCtEY6BXX2uver9nOTZ_Umgm0US_Zj_CPl6ZZiy1-6Pj335xcEkUs59pGWaRqn5hHN17wYMY8KJDQZBGCeMm-WVyfQhWcXfud9vtNln0i5rYey-gSQbpu"
+      ]
+    },
+    {
+      "id": "43301",
+      "title": "売戸建南巨摩郡身延町売戸建住宅【NO.193】写真4枚IHクッキングヒータは火を使わないので安心。広い倉庫もあります。※物件詳細は【身延町空き家バンク利用者登録】をして頂いた後でのご案内となります。価",
+      "municipality": "長野県minobu-t19365",
+      "url": "https://minobu-t19365.akiya-athome.jp/bukken/detail/buy/43301",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNmrCtEY6BXX2uver9nOTZ_Umgm0US_Zj_CPl6ZZiy1-6Pj335xcEkUs59pGWaRqn5hHN17wYMY8KJDQZBGCeMm-WVyfQhWcXfud9vtNln0i5rYey-gSQbpu"
+      ]
+    }
+  ]
+}

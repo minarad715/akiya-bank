@@ -1,0 +1,87 @@
+{
+  "municipality": "山梨県北杜市",
+  "scraped_at": "2026-02-06T23:51:28.154680",
+  "count": 3,
+  "properties": [
+    {
+      "id": "売220",
+      "title": "空き家バンク登録物件【売220】",
+      "municipality": "山梨県北杜市",
+      "url": "https://www.city.hokuto.yamanashi.jp/teijyu_ijyu/bank/bukkenn/33280.html",
+      "type": "売却",
+      "price": 3800000,
+      "price_raw": "売却価格：380万円",
+      "land_area": "582.93平米(約176坪)",
+      "building_area": "1階195.84平米(約59.2坪)",
+      "built_year": "不祥",
+      "description": "",
+      "images": [
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/3/0/_/___________thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/2/9/_/___thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/3/1/_/__2_thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/3/2/_/___thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/3/3/_/__________thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/3/4/_/____2_thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/3/5/_/____thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/3/6/_/__1_thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/3/7/_/__3_thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/3/8/_/__4_thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/3/9/_/__5_thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/4/0/_/___thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/4/4/1/_/____thumb.jpg"
+      ]
+    },
+    {
+      "id": "売233",
+      "title": "空き家バンク登録物件【売233】",
+      "municipality": "山梨県北杜市",
+      "url": "https://www.city.hokuto.yamanashi.jp/teijyu_ijyu/bank/bukkenn/33275.html",
+      "type": "売却",
+      "price": 12500000,
+      "price_raw": "売却価格：1250万円",
+      "land_area": "495平米(約149坪)",
+      "building_area": "1階+地下54.52平米(約16坪)",
+      "built_year": "平成2年",
+      "description": "",
+      "images": [
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/3/1/7/_/_____thumb.png",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/3/1/6/_/___thumb.jpeg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/3/1/8/_/___thumb.jpeg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/3/1/9/_/__________thumb.jpeg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/3/2/0/_/_____thumb.jpeg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/3/2/1/_/____thumb.jpeg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/3/2/2/_/___thumb.jpeg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/3/2/3/_/____thumb.jpeg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/3/2/4/_/___thumb.jpeg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/6/3/2/5/_/___thumb.jpeg"
+      ]
+    },
+    {
+      "id": "売232",
+      "title": "空き家バンク登録物件【売232】",
+      "municipality": "山梨県北杜市",
+      "url": "https://www.city.hokuto.yamanashi.jp/teijyu_ijyu/bank/bukkenn/33186.html",
+      "type": "売却",
+      "price": 6800000,
+      "price_raw": "売却価格：680万円",
+      "land_area": "904.49平米(約273.6坪)",
+      "building_area": "1階102.98平米(約31.15坪)",
+      "built_year": "昭和59年",
+      "description": "",
+      "images": [
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/3/2/_/______thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/3/0/_/1___thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/3/3/_/2___thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/3/4/_/4_____thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/3/5/_/8____thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/3/6/_/9___thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/3/7/_/10____thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/3/8/_/3___thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/3/9/_/5___thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/4/0/_/6___thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/4/1/_/7___thumb.jpg",
+        "https://www.city.hokuto.yamanashi.jp/fs/4/9/5/8/4/2/_/11___thumb.jpg"
+      ]
+    }
+  ]
+}
