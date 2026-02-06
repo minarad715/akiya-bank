@@ -138,14 +138,21 @@
     </div>
 
     <script>
-        const dataFiles = [
-            "/data/raw/hokuto.json",
-            "/data/raw/iida.json",
-            "/data/raw/athome_nagano.json",
-            "/data/raw/athome_yamanashi.json",
-            "/data/raw/athome_shizuoka.json",
-            "/data/raw/athome_chiba.json"
-        ];
+const dataFiles = [
+    "/data/raw/hokuto.json",
+    "/data/raw/iida.json",
+    "/data/raw/azumino.json",
+    "/data/raw/athome_nagano.json",
+    "/data/raw/athome_yamanashi.json",
+    "/data/raw/athome_shizuoka.json",
+    "/data/raw/athome_chiba.json",
+    "/data/raw/athome_hokkaido.json",
+    "/data/raw/athome_fukuoka.json",
+    "/data/raw/athome_kyoto.json",
+    "/data/raw/athome_hiroshima.json",
+    "/data/raw/athome_gunma.json",
+    "/data/raw/athome_tochigi.json"
+];
         
         Promise.all(dataFiles.map(file => fetch(file).then(r => r.json())))
             .then(dataArray => {
