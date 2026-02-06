@@ -1,0 +1,357 @@
+{
+  "municipality": "長野県（アットホーム）",
+  "scraped_at": "2026-02-07T00:43:28.794751",
+  "count": 20,
+  "properties": [
+    {
+      "id": "44320",
+      "title": "売戸建中野市ＪＲ飯山線 蓮駅/徒歩34分写真16枚価格350万円間取8DK建物面積176.32㎡土地面積367.97㎡私道負担面積物件種目売戸建築年月1968年9月所在地長野県中野市大字柳沢交通ＪＲ飯",
+      "municipality": "長野県nakano-c20211",
+      "url": "https://nakano-c20211.akiya-athome.jp/bukken/detail/buy/44320",
+      "type": "売買",
+      "price": 3500000,
+      "price_raw": "価格350万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlt4PFMNKQn_CLbxKrW4vK3b-QIGrL47oQdL_aogc8TiMfa88wEWTHOscsxOUdbEjx9vfariyjplMXEZDg_U-qPsXRJyJPLj9DPnDZnmpH_N-43kSzj_lS3",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE3IawmPQLBgf8JR-sYCmqCmTqDkXiQGODKm3U7VQw1OeKRyWPcCBfvjsdGzwsIua8mHT0zZDi99NExBKQyvzSutkKGMTK4grHQsqFQKFurbhmQESARxhVq"
+      ]
+    },
+    {
+      "id": "44144",
+      "title": "売戸建下水内郡栄村【A055】白鳥地区写真16枚自分の畑がある、暮らしを整える古民家価格300万円間取5LDK建物面積98.53㎡土地面積275.02㎡私道負担面積物件種目売戸建築年月不詳所在地長野県",
+      "municipality": "長野県sakae-v20602",
+      "url": "https://sakae-v20602.akiya-athome.jp/bukken/detail/buy/44144",
+      "type": "売買",
+      "price": 3000000,
+      "price_raw": "価格300万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNng8-gmkUBTLdP5-Sf2hF6Vmgm0US_Zj_CrStnWs2CUAgejXhSlNNl79YX3PHY9Xe3HYzzJQpfWL5DQZBGCeMm-THhupDuZRVawd2jEVJcc4HpmYSvk6LQN"
+      ]
+    },
+    {
+      "id": "43480",
+      "title": "売戸建北佐久郡御代田町御代田町大字塩野写真23枚価格500万円間取7DK建物面積62.99㎡土地面積653.98㎡私道負担面積物件種目売戸建築年月不詳所在地長野県北佐久郡御代田町大字塩野交通しなの鉄道",
+      "municipality": "長野県miyota-t20323",
+      "url": "https://miyota-t20323.akiya-athome.jp/bukken/detail/buy/43480",
+      "type": "売買",
+      "price": 5000000,
+      "price_raw": "価格500万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNkrPGuFVXAY5bfksapLdIyZSc1n4pgmEcexgT6_87HBpsFhACiEAeEw7KhSM3zmT9OPm9g0Qo6ZXLGVNDzuDZ4ARFFgjZzVhnruc31qbe1dPjPjCSBSo9Lr",
+        "https://img.akiya-athome.jp/?v=Q7abLXzb4SYosrk3qh0vELEImax5GZztZWNqEOOKfnnynBcouBezUlN2Y_Qc9ZsRdsbEHmNT3GbcGyqBY_n-U-L4Pe3yRFEGM6jDA64WoqG16zwa-SqrOgkf990u61zH",
+        "https://img.akiya-athome.jp/?v=Q7abLXzb4Sam48BzpYdLwbEImax5GZztZWNqEOOKfnnynBcouBezUgPkftYog8EvEUJU3AF5h0NxRkyhUT7Iew8vq9JEE2ka0qRXBj-XBj616zwa-SqrOgkf990u61zH",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeGp1Hv5vkbXprww5Y20Umq9VS8mWoIv0towlTvi4t4egdy_QYoszjp4SwcnBTBZllrMY023D3r6vDxwgpLVSyRMP1cOSQuGdqDQk29Ht9NjIvbNvhJhZJDP"
+      ]
+    },
+    {
+      "id": "43753",
+      "title": "売戸建上高井郡高山村物件番号84写真12枚森の中の隠れ家的な雰囲気のお家です。価格150万円間取1DK建物面積39.37㎡土地面積648.58㎡私道負担面積物件種目売戸建築年月1975年1月所在地長野",
+      "municipality": "長野県takayama-v20543",
+      "url": "https://takayama-v20543.akiya-athome.jp/bukken/detail/buy/43753",
+      "type": "売買",
+      "price": 1500000,
+      "price_raw": "価格150万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJ-ITY6wBXgPVRStXnTG9ZMDo_g5YAoDvE_J0dugJuHyHO-BRg8NBRBgGsfiuHSAx-ZzVdDyRKh13GI6WPQfh1h1Vd9Pi9228jHzVIWpiqvftT6htaKsOGM",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIiWPUh4s6xRzRQ4riUFrU0r2FBZN3ZWECreDz7yZ7PIkOocqGT6wshVqJcp0WMX5CFNUc2FghRIExsT6OtYUygUo0_BUd7ykmXWhiwnt5yYxBX0RIy-ya-",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIJ2erFgwK_npXXOB4fvM0ozW2CA87iSoS_m7ddCghVQja4FVH8CtSN6rwy5SGswJov7AcPt1BA1uE2IzgfuwQEEoEFyHi45FW3dz5kUqpTAAKDSOomFisT",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJzoBIDLSX8K5FCvf8L1SOw9lTAPdMl8mrwj_FAoR14F92KevWauhCOli9jD-zmnFrop7_JMlCtMMl-nEgOKXBwEafl8f4MuVRD3g7sndpc1ZBQJpyBzFJG",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJgJ4IeacQR5JXXOB4fvM0ozW2CA87iSoS_m7ddCghVQja4FVH8CtSN6rwy5SGswJov7AcPt1BA1uE2IzgfuwQEEoEFyHi45FW3dz5kUqpTAAKDSOomFisT"
+      ]
+    },
+    {
+      "id": "43441",
+      "title": "売戸建上高井郡高山村物件番号69写真11枚小布施町寄りの平家物件価格300万円間取6DK建物面積124.33㎡土地面積356.68㎡私道負担面積物件種目売戸建築年月1967年1月所在地長野県上高井郡高",
+      "municipality": "長野県takayama-v20543",
+      "url": "https://takayama-v20543.akiya-athome.jp/bukken/detail/buy/43441",
+      "type": "売買",
+      "price": 3000000,
+      "price_raw": "価格300万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJ-ITY6wBXgPVRStXnTG9ZMDo_g5YAoDvE_J0dugJuHyHO-BRg8NBRBgGsfiuHSAx-ZzVdDyRKh13GI6WPQfh1h1Vd9Pi9228jHzVIWpiqvftT6htaKsOGM",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIiWPUh4s6xRzRQ4riUFrU0r2FBZN3ZWECreDz7yZ7PIkOocqGT6wshVqJcp0WMX5CFNUc2FghRIExsT6OtYUygUo0_BUd7ykmXWhiwnt5yYxBX0RIy-ya-",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIJ2erFgwK_npXXOB4fvM0ozW2CA87iSoS_m7ddCghVQja4FVH8CtSN6rwy5SGswJov7AcPt1BA1uE2IzgfuwQEEoEFyHi45FW3dz5kUqpTAAKDSOomFisT",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJzoBIDLSX8K5FCvf8L1SOw9lTAPdMl8mrwj_FAoR14F92KevWauhCOli9jD-zmnFrop7_JMlCtMMl-nEgOKXBwEafl8f4MuVRD3g7sndpc1ZBQJpyBzFJG",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJgJ4IeacQR5JXXOB4fvM0ozW2CA87iSoS_m7ddCghVQja4FVH8CtSN6rwy5SGswJov7AcPt1BA1uE2IzgfuwQEEoEFyHi45FW3dz5kUqpTAAKDSOomFisT"
+      ]
+    },
+    {
+      "id": "42714",
+      "title": "売戸建上高井郡高山村物件番号98写真11枚須坂市寄りの比較的小さめ物件！価格600万円間取5DK建物面積125.29㎡土地面積89.75㎡私道負担面積物件種目売戸建築年月1973年7月所在地長野県上高",
+      "municipality": "長野県takayama-v20543",
+      "url": "https://takayama-v20543.akiya-athome.jp/bukken/detail/buy/42714",
+      "type": "売買",
+      "price": 6000000,
+      "price_raw": "価格600万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJ-ITY6wBXgPVRStXnTG9ZMDo_g5YAoDvE_J0dugJuHyHO-BRg8NBRBgGsfiuHSAx-ZzVdDyRKh13GI6WPQfh1h1Vd9Pi9228jHzVIWpiqvftT6htaKsOGM",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIiWPUh4s6xRzRQ4riUFrU0r2FBZN3ZWECreDz7yZ7PIkOocqGT6wshVqJcp0WMX5CFNUc2FghRIExsT6OtYUygUo0_BUd7ykmXWhiwnt5yYxBX0RIy-ya-",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIJ2erFgwK_npXXOB4fvM0ozW2CA87iSoS_m7ddCghVQja4FVH8CtSN6rwy5SGswJov7AcPt1BA1uE2IzgfuwQEEoEFyHi45FW3dz5kUqpTAAKDSOomFisT",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJzoBIDLSX8K5FCvf8L1SOw9lTAPdMl8mrwj_FAoR14F92KevWauhCOli9jD-zmnFrop7_JMlCtMMl-nEgOKXBwEafl8f4MuVRD3g7sndpc1ZBQJpyBzFJG",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJgJ4IeacQR5JXXOB4fvM0ozW2CA87iSoS_m7ddCghVQja4FVH8CtSN6rwy5SGswJov7AcPt1BA1uE2IzgfuwQEEoEFyHi45FW3dz5kUqpTAAKDSOomFisT"
+      ]
+    },
+    {
+      "id": "42898",
+      "title": "売土地上水内郡飯綱町登録番号118/受付番号154　東高原写真2枚飯綱東高原に所在する空き地です。スキー場が近くにあり、少しの空き時間でも足を運べます。価格60万円土地面積999㎡引渡条件相談最適用途",
+      "municipality": "長野県iizuna-t20590",
+      "url": "https://iizuna-t20590.akiya-athome.jp/bukken/detail/buy/42898",
+      "type": "売買",
+      "price": 600000,
+      "price_raw": "価格60万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsXkBW4PNGXd6l6W9VFBWe3tycH3YKxlRxgZCJrplo7EhlBwl4QLLe1wzbiyuIHRBDroVsFMTNO-Q42DC61SP3O4FwM9Phn2Xl2Rb20ntNYoowe56vp3suBh",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULMGc0bvnhj8XMFAYaiRq_7442fm6dApIH9qatxhYfcDMPykXzHMyf4e9KE3LRNOrNi4a-UhdIiqCWoIU0Zq6VrssKPuNSAUswS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "43036",
+      "title": "売戸建下水内郡栄村【A053】箕作地区写真20枚IHクッキングヒーターにリフォーム済み、広い部屋でゆっくりのんびり過ごしませんか。価格90万円間取7DK建物面積2㎡土地面積202.32㎡私道負担面積物",
+      "municipality": "長野県sakae-v20602",
+      "url": "https://sakae-v20602.akiya-athome.jp/bukken/detail/buy/43036",
+      "type": "売買",
+      "price": 900000,
+      "price_raw": "価格90万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNng8-gmkUBTLdP5-Sf2hF6Vmgm0US_Zj_CrStnWs2CUAgejXhSlNNl79YX3PHY9Xe3HYzzJQpfWL5DQZBGCeMm-THhupDuZRVawd2jEVJcc4HpmYSvk6LQN"
+      ]
+    },
+    {
+      "id": "42950",
+      "title": "売戸建下水内郡栄村【A052】小赤沢地区写真13枚避暑地のため、別荘の使用にもおすすめの物件です！（風呂なし物件。車で2分の距離に日帰り温泉施設有。（冬期休業））田畑、山林付きの物件になります。価格9",
+      "municipality": "長野県sakae-v20602",
+      "url": "https://sakae-v20602.akiya-athome.jp/bukken/detail/buy/42950",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNng8-gmkUBTLdP5-Sf2hF6Vmgm0US_Zj_CrStnWs2CUAgejXhSlNNl79YX3PHY9Xe3HYzzJQpfWL5DQZBGCeMm-THhupDuZRVawd2jEVJcc4HpmYSvk6LQN"
+      ]
+    },
+    {
+      "id": "42919",
+      "title": "売戸建中野市バス 長電バス 草間 停歩12分写真10枚価格1,480万円間取7DK建物面積209.14㎡土地面積422.98㎡私道負担面積物件種目売戸建築年月1988年1月所在地長野県中野市大字草間交",
+      "municipality": "長野県nakano-c20211",
+      "url": "https://nakano-c20211.akiya-athome.jp/bukken/detail/buy/42919",
+      "type": "売買",
+      "price": 14800000,
+      "price_raw": "価格1,480万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNlt4PFMNKQn_CLbxKrW4vK3b-QIGrL47oQdL_aogc8TiMfa88wEWTHOscsxOUdbEjx9vfariyjplMXEZDg_U-qPsXRJyJPLj9DPnDZnmpH_N-43kSzj_lS3",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeE3IawmPQLBgf8JR-sYCmqCmTqDkXiQGODKm3U7VQw1OeKRyWPcCBfvjsdGzwsIua8mHT0zZDi99NExBKQyvzSutkKGMTK4grHQsqFQKFurbhmQESARxhVq"
+      ]
+    },
+    {
+      "id": "42635",
+      "title": "売土地上水内郡飯綱町登録番号117/受付番号114　東高原写真2枚飯綱東高原に所在する空き地です。価格200万円土地面積781㎡引渡条件相談最適用途-建ぺい率20％容積率40％私道負担面積所在地長野県",
+      "municipality": "長野県iizuna-t20590",
+      "url": "https://iizuna-t20590.akiya-athome.jp/bukken/detail/buy/42635",
+      "type": "売買",
+      "price": 2000000,
+      "price_raw": "価格200万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsXkBW4PNGXd6l6W9VFBWe3tycH3YKxlRxgZCJrplo7EhlBwl4QLLe1wzbiyuIHRBDroVsFMTNO-Q42DC61SP3O4FwM9Phn2Xl2Rb20ntNYoowe56vp3suBh",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULMGc0bvnhj8XMFAYaiRq_7442fm6dApIH9qatxhYfcDMPykXzHMyf4e9KE3LRNOrNi4a-UhdIiqCWoIU0Zq6VrssKPuNSAUswS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "42636",
+      "title": "売土地上水内郡飯綱町登録番号116/受付番号141　福井団地写真3枚長野市境まで車で約7分、長野駅まで約30分の好立地。緑豊かな住宅地は、通勤通学でも四季の移り変わりを感じられる環境です。価格450万",
+      "municipality": "長野県iizuna-t20590",
+      "url": "https://iizuna-t20590.akiya-athome.jp/bukken/detail/buy/42636",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsXkBW4PNGXd6l6W9VFBWe3tycH3YKxlRxgZCJrplo7EhlBwl4QLLe1wzbiyuIHRBDroVsFMTNO-Q42DC61SP3O4FwM9Phn2Xl2Rb20ntNYoowe56vp3suBh",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULMGc0bvnhj8XMFAYaiRq_7442fm6dApIH9qatxhYfcDMPykXzHMyf4e9KE3LRNOrNi4a-UhdIiqCWoIU0Zq6VrssKPuNSAUswS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "42629",
+      "title": "売土地上水内郡飯綱町登録番号115/受付番号124　東高原写真3枚飯綱東高原に所在する空き地です。周辺交通量少なめで、子育てやぜんそくが気になる方におすすめです。価格150万円土地面積1025㎡引渡条",
+      "municipality": "長野県iizuna-t20590",
+      "url": "https://iizuna-t20590.akiya-athome.jp/bukken/detail/buy/42629",
+      "type": "売買",
+      "price": 1500000,
+      "price_raw": "価格150万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsXkBW4PNGXd6l6W9VFBWe3tycH3YKxlRxgZCJrplo7EhlBwl4QLLe1wzbiyuIHRBDroVsFMTNO-Q42DC61SP3O4FwM9Phn2Xl2Rb20ntNYoowe56vp3suBh",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULMGc0bvnhj8XMFAYaiRq_7442fm6dApIH9qatxhYfcDMPykXzHMyf4e9KE3LRNOrNi4a-UhdIiqCWoIU0Zq6VrssKPuNSAUswS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "40883",
+      "title": "売土地上水内郡飯綱町登録番号109/受付番号149　東高原写真3枚東高原に立地する別荘地です。価格100万円土地面積705㎡引渡条件相談最適用途-建ぺい率-容積率-私道負担面積所在地長野県上水内郡飯綱",
+      "municipality": "長野県iizuna-t20590",
+      "url": "https://iizuna-t20590.akiya-athome.jp/bukken/detail/buy/40883",
+      "type": "売買",
+      "price": 1000000,
+      "price_raw": "価格100万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsXkBW4PNGXd6l6W9VFBWe3tycH3YKxlRxgZCJrplo7EhlBwl4QLLe1wzbiyuIHRBDroVsFMTNO-Q42DC61SP3O4FwM9Phn2Xl2Rb20ntNYoowe56vp3suBh",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULMGc0bvnhj8XMFAYaiRq_7442fm6dApIH9qatxhYfcDMPykXzHMyf4e9KE3LRNOrNi4a-UhdIiqCWoIU0Zq6VrssKPuNSAUswS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "42078",
+      "title": "売戸建上水内郡飯綱町登録番号149/受付番号197　福井団地写真11枚福井団地地区に所在する物件です。ゴルフ場が近くにあり、少しの空き時間でも足を運べます。価格777万円間取6DK建物面積148.77",
+      "municipality": "長野県iizuna-t20590",
+      "url": "https://iizuna-t20590.akiya-athome.jp/bukken/detail/buy/42078",
+      "type": "売買",
+      "price": 7770000,
+      "price_raw": "価格777万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsXkBW4PNGXd6l6W9VFBWe3tycH3YKxlRxgZCJrplo7EhlBwl4QLLe1wzbiyuIHRBDroVsFMTNO-Q42DC61SP3O4FwM9Phn2Xl2Rb20ntNYoowe56vp3suBh",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULMGc0bvnhj8XMFAYaiRq_7442fm6dApIH9qatxhYfcDMPykXzHMyf4e9KE3LRNOrNi4a-UhdIiqCWoIU0Zq6VrssKPuNSAUswS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "42074",
+      "title": "売土地上水内郡飯綱町登録番号114/受付番号150　東高原写真3枚東高原に立地する別荘地です。周辺交通量少なめで、子育てやぜんそくが気になる方におすすめです。価格30万円土地面積705㎡引渡条件相談最",
+      "municipality": "長野県iizuna-t20590",
+      "url": "https://iizuna-t20590.akiya-athome.jp/bukken/detail/buy/42074",
+      "type": "売買",
+      "price": 300000,
+      "price_raw": "価格30万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsXkBW4PNGXd6l6W9VFBWe3tycH3YKxlRxgZCJrplo7EhlBwl4QLLe1wzbiyuIHRBDroVsFMTNO-Q42DC61SP3O4FwM9Phn2Xl2Rb20ntNYoowe56vp3suBh",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULMGc0bvnhj8XMFAYaiRq_7442fm6dApIH9qatxhYfcDMPykXzHMyf4e9KE3LRNOrNi4a-UhdIiqCWoIU0Zq6VrssKPuNSAUswS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "42073",
+      "title": "売土地上水内郡飯綱町登録番号113/受付番号152　東高原写真4枚飯綱東高原に所在する空き地です。周辺交通量少なめで、子育てやぜんそくが気になる方におすすめです。価格200.52万円土地面積1105㎡",
+      "municipality": "長野県iizuna-t20590",
+      "url": "https://iizuna-t20590.akiya-athome.jp/bukken/detail/buy/42073",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsXkBW4PNGXd6l6W9VFBWe3tycH3YKxlRxgZCJrplo7EhlBwl4QLLe1wzbiyuIHRBDroVsFMTNO-Q42DC61SP3O4FwM9Phn2Xl2Rb20ntNYoowe56vp3suBh",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULMGc0bvnhj8XMFAYaiRq_7442fm6dApIH9qatxhYfcDMPykXzHMyf4e9KE3LRNOrNi4a-UhdIiqCWoIU0Zq6VrssKPuNSAUswS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "41904",
+      "title": "売戸建北安曇郡小谷村ＪＲ大糸線 平岩駅/バス 大網 大網 7分 停歩5分写真9枚価格200万円間取8LDK建物面積198.97㎡土地面積393.38㎡私道負担面積物件種目売戸建築年月不詳所在地長野県北",
+      "municipality": "長野県otari-v20486",
+      "url": "https://otari-v20486.akiya-athome.jp/bukken/detail/buy/41904",
+      "type": "売買",
+      "price": 2000000,
+      "price_raw": "価格200万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsX5e3R7ECM1oh82r_GlYZuZd8dLUkCM50MDOYQhYVqZD9sklZP3qnWLWwyTuoJl7yCNtu6v3bYITQ0hnC0kBZCmMGM0V9hCDICWq0ozWeb2q0fLje79BQxQ",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeFfANkCxmHyTycrr5VeDT9qfkFWuScN8AgBB5RvjWx8MLjBFc-PhKtEEaNa2RpMIPhpt64FX1yXIzJV8aJ3WXsVkAw-Lvs9-bz-XL-81b1OJLeApcankp_3",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUIXt4xXdM8ewXMFAYaiRq_7SKVoet0-b7zIdko7QBzw8OYWIebxc2gOx5b6DMKIVkZGDlGkOMqKsN73rL6cEKff_wc5Vg7mZOUErITSVAmq0lpW3ghyhTdz",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPUJuhumZkYXtpQFgIfMCWduUt_yCWjcfgAJjYdCS9Zuw2aEZt7TLO97r1tsErCfPUde0LbF2jBnaUC6TuvEwFqF-P66VQkTG90_UyTONZJmRLhHN9xH4YPod",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeGp1Hv5vkbXpmW1nCGKC_g2yL5oTxlXxU2nn2HHZhP5hn9jKHGPaectedIHKiMmtNER-MvCguAlbDSUgcs0Scx4phn5-OnZqM3JGD539q6pEwgal0VDCfIf"
+      ]
+    },
+    {
+      "id": "41749",
+      "title": "売土地上水内郡飯綱町登録番号112/受付番号151　東高原写真6枚飯綱東高原の白樺台別荘地に所在する空き地です。スキー場が近くにあり、少しの空き時間でも足を運べます。価格100万円土地面積730㎡引渡",
+      "municipality": "長野県iizuna-t20590",
+      "url": "https://iizuna-t20590.akiya-athome.jp/bukken/detail/buy/41749",
+      "type": "売買",
+      "price": 1000000,
+      "price_raw": "価格100万円",
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": null,
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsXkBW4PNGXd6l6W9VFBWe3tycH3YKxlRxgZCJrplo7EhlBwl4QLLe1wzbiyuIHRBDroVsFMTNO-Q42DC61SP3O4FwM9Phn2Xl2Rb20ntNYoowe56vp3suBh",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULMGc0bvnhj8XMFAYaiRq_7442fm6dApIH9qatxhYfcDMPykXzHMyf4e9KE3LRNOrNi4a-UhdIiqCWoIU0Zq6VrssKPuNSAUswS4LsI59cMOLxylaoMbZ2C"
+      ]
+    },
+    {
+      "id": "40825",
+      "title": "売戸建下水内郡栄村【A049】上野原地区写真13枚農地付きの古民家物件になります！価格50万円間取8DK建物面積面積不明土地面積421.58㎡私道負担面積物件種目売戸建築年月1900年3月所在地長野県",
+      "municipality": "長野県sakae-v20602",
+      "url": "https://sakae-v20602.akiya-athome.jp/bukken/detail/buy/40825",
+      "type": "売買",
+      "price": 500000,
+      "price_raw": "価格50万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNng8-gmkUBTLdP5-Sf2hF6Vmgm0US_Zj_CrStnWs2CUAgejXhSlNNl79YX3PHY9Xe3HYzzJQpfWL5DQZBGCeMm-THhupDuZRVawd2jEVJcc4HpmYSvk6LQN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "municipality": "長野県安曇野市",
+  "scraped_at": "2026-02-07T00:04:00.317862",
+  "count": 1,
+  "properties": [
+    {
+      "id": "test_001",
+      "title": "空き家",
+      "municipality": "長野県安曇野市",
+      "url": "https://www.city.azumino.nagano.jp/site/akiya/",
+      "type": "不明"
+    }
+  ]
+}
