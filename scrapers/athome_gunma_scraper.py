@@ -3,7 +3,7 @@ from base_scraper import BaseScraper
 from bs4 import BeautifulSoup
 import re
 
-class AthomeGunmaScraper(BaseScraper):
+class AthomegunmaScraper(BaseScraper):
     """アットホーム群馬の空き家バンクスクレイパー"""
     
     def __init__(self):
@@ -138,11 +138,11 @@ class AthomeGunmaScraper(BaseScraper):
         if html:
             self.parse(html)
         
-        output_path = '../data/raw/athome_Gunma.json'
+        output_path = '../data/raw/athome_gunma.json'
         self.save_data(output_path)
         
         return self.properties
 
 if __name__ == '__main__':
-    scraper = AthomeGunmaScraper()
+    scraper = AthomegunmaScraper()
     scraper.run()

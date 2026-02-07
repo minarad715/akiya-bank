@@ -1,0 +1,354 @@
+{
+  "municipality": "京都府（アットホーム）",
+  "scraped_at": "2026-02-07T10:43:30.451624",
+  "count": 20,
+  "properties": [
+    {
+      "id": "44293",
+      "title": "売戸建京都市右京区【物件第R7-08号】京都市右京区京北上弓削町写真22枚価格300万円間取5DK建物面積85.95㎡土地面積330.57㎡私道負担面積物件種目売戸建築年月不詳所在地京都府京都市右京区",
+      "municipality": "京都府kyoto-c26100",
+      "url": "https://kyoto-c26100.akiya-athome.jp/bukken/detail/buy/44293",
+      "type": "売買",
+      "price": 3000000,
+      "price_raw": "価格300万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVjYCGWturAcTRLV4fGeWr9pp7dKjQ1L6ONqt_czjDNTW1Gi5p6fVMGhvsPHeR7fkY4-ZZvSa_5JlPEg_FJELey6c_PHRYmSaGIled8O5Af0kXcYtTj7W7qc"
+      ]
+    },
+    {
+      "id": "43463",
+      "title": "売戸建船井郡京丹波町売戸建住宅【270】写真12枚価格1,000万円間取6LDK建物面積177.54㎡土地面積360㎡私道負担面積物件種目売戸建築年月1995年7月所在地京都府船井郡京丹波町水原交通Ｊ",
+      "municipality": "京都府kyotamba-t26407",
+      "url": "https://kyotamba-t26407.akiya-athome.jp/bukken/detail/buy/43463",
+      "type": "売買",
+      "price": 10000000,
+      "price_raw": "価格1,000万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVhHG_oS2PrOlRLV4fGeWr9pp7dKjQ1L6ONOezdui0qkYmRURJLT0U7kGOPriYMNZbd7a30ehkCUX647jaufVLPY0U8cMgT0CDt8mdMGf-VGepdgiaMyKbmF",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeEWHmG8g4iq0-uk5wmAzwccfkFWuScN8Ah_AU5ymsjwqjo7PsZ6-CLv1SBlV2GzuFrZOjpJpYwg1K2_HRDn27KGZew41IOMHTui5lBbLdiiWOw9EsrN8pni",
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsUNPrf6gPaby0zIK6TRCqh9teaBwfLaMxfXdS15LvPop54dNclimXy5X2B6iM3BJsK0tohB0pU9C-eIhLFZiYedj4DoCUAkR0QmU48B-fNxNuzIJ1sXZ933",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULN8Y5Zhkm7ugH4c7UuyisbbVZdWy2wuDpDtI6i4RG52roUQSkzec5woZA5Ln2RRpq88mZhmfyH_rnWwTzjZpR7vLy1_qVhjw5RnxzMzASkuACN6UfsYTfK"
+      ]
+    },
+    {
+      "id": "43706",
+      "title": "売戸建船井郡京丹波町売戸建住宅【269】写真19枚価格480万円間取6DK建物面積145.99㎡土地面積357.18㎡私道負担面積物件種目売戸建築年月1986年9月所在地京都府船井郡京丹波町長瀬交通Ｊ",
+      "municipality": "京都府kyotamba-t26407",
+      "url": "https://kyotamba-t26407.akiya-athome.jp/bukken/detail/buy/43706",
+      "type": "売買",
+      "price": 4800000,
+      "price_raw": "価格480万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVhHG_oS2PrOlRLV4fGeWr9pp7dKjQ1L6ONOezdui0qkYmRURJLT0U7kGOPriYMNZbd7a30ehkCUX647jaufVLPY0U8cMgT0CDt8mdMGf-VGepdgiaMyKbmF",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeEWHmG8g4iq0-uk5wmAzwccfkFWuScN8Ah_AU5ymsjwqjo7PsZ6-CLv1SBlV2GzuFrZOjpJpYwg1K2_HRDn27KGZew41IOMHTui5lBbLdiiWOw9EsrN8pni",
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsUNPrf6gPaby0zIK6TRCqh9teaBwfLaMxfXdS15LvPop54dNclimXy5X2B6iM3BJsK0tohB0pU9C-eIhLFZiYedj4DoCUAkR0QmU48B-fNxNuzIJ1sXZ933",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULN8Y5Zhkm7ugH4c7UuyisbbVZdWy2wuDpDtI6i4RG52roUQSkzec5woZA5Ln2RRpq88mZhmfyH_rnWwTzjZpR7vLy1_qVhjw5RnxzMzASkuACN6UfsYTfK"
+      ]
+    },
+    {
+      "id": "43633",
+      "title": "売戸建船井郡京丹波町売戸建住宅【268】写真16枚価格380万円間取5DK建物面積126.21㎡土地面積284.56㎡私道負担面積物件種目売戸建築年月不詳所在地京都府船井郡京丹波町水呑交通ＪＲ山陰本線",
+      "municipality": "京都府kyotamba-t26407",
+      "url": "https://kyotamba-t26407.akiya-athome.jp/bukken/detail/buy/43633",
+      "type": "売買",
+      "price": 3800000,
+      "price_raw": "価格380万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVhHG_oS2PrOlRLV4fGeWr9pp7dKjQ1L6ONOezdui0qkYmRURJLT0U7kGOPriYMNZbd7a30ehkCUX647jaufVLPY0U8cMgT0CDt8mdMGf-VGepdgiaMyKbmF",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeEWHmG8g4iq0-uk5wmAzwccfkFWuScN8Ah_AU5ymsjwqjo7PsZ6-CLv1SBlV2GzuFrZOjpJpYwg1K2_HRDn27KGZew41IOMHTui5lBbLdiiWOw9EsrN8pni",
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsUNPrf6gPaby0zIK6TRCqh9teaBwfLaMxfXdS15LvPop54dNclimXy5X2B6iM3BJsK0tohB0pU9C-eIhLFZiYedj4DoCUAkR0QmU48B-fNxNuzIJ1sXZ933",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULN8Y5Zhkm7ugH4c7UuyisbbVZdWy2wuDpDtI6i4RG52roUQSkzec5woZA5Ln2RRpq88mZhmfyH_rnWwTzjZpR7vLy1_qVhjw5RnxzMzASkuACN6UfsYTfK"
+      ]
+    },
+    {
+      "id": "43501",
+      "title": "売戸建船井郡京丹波町売戸建住宅【266】写真11枚価格285万円間取5DK建物面積128.59㎡土地面積664.11㎡私道負担面積物件種目売戸建築年月不詳所在地京都府船井郡京丹波町下粟野交通ＪＲ山陰本",
+      "municipality": "京都府kyotamba-t26407",
+      "url": "https://kyotamba-t26407.akiya-athome.jp/bukken/detail/buy/43501",
+      "type": "売買",
+      "price": 2850000,
+      "price_raw": "価格285万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVhHG_oS2PrOlRLV4fGeWr9pp7dKjQ1L6ONOezdui0qkYmRURJLT0U7kGOPriYMNZbd7a30ehkCUX647jaufVLPY0U8cMgT0CDt8mdMGf-VGepdgiaMyKbmF",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeEWHmG8g4iq0-uk5wmAzwccfkFWuScN8Ah_AU5ymsjwqjo7PsZ6-CLv1SBlV2GzuFrZOjpJpYwg1K2_HRDn27KGZew41IOMHTui5lBbLdiiWOw9EsrN8pni",
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsUNPrf6gPaby0zIK6TRCqh9teaBwfLaMxfXdS15LvPop54dNclimXy5X2B6iM3BJsK0tohB0pU9C-eIhLFZiYedj4DoCUAkR0QmU48B-fNxNuzIJ1sXZ933",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULN8Y5Zhkm7ugH4c7UuyisbbVZdWy2wuDpDtI6i4RG52roUQSkzec5woZA5Ln2RRpq88mZhmfyH_rnWwTzjZpR7vLy1_qVhjw5RnxzMzASkuACN6UfsYTfK"
+      ]
+    },
+    {
+      "id": "43516",
+      "title": "売戸建船井郡京丹波町売戸建住宅【267】写真17枚価格600万円間取7LDK建物面積179.9㎡土地面積731.94㎡私道負担面積物件種目売戸建築年月1990年12月所在地京都府船井郡京丹波町市場交通",
+      "municipality": "京都府kyotamba-t26407",
+      "url": "https://kyotamba-t26407.akiya-athome.jp/bukken/detail/buy/43516",
+      "type": "売買",
+      "price": 6000000,
+      "price_raw": "価格600万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVhHG_oS2PrOlRLV4fGeWr9pp7dKjQ1L6ONOezdui0qkYmRURJLT0U7kGOPriYMNZbd7a30ehkCUX647jaufVLPY0U8cMgT0CDt8mdMGf-VGepdgiaMyKbmF",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeEWHmG8g4iq0-uk5wmAzwccfkFWuScN8Ah_AU5ymsjwqjo7PsZ6-CLv1SBlV2GzuFrZOjpJpYwg1K2_HRDn27KGZew41IOMHTui5lBbLdiiWOw9EsrN8pni",
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsUNPrf6gPaby0zIK6TRCqh9teaBwfLaMxfXdS15LvPop54dNclimXy5X2B6iM3BJsK0tohB0pU9C-eIhLFZiYedj4DoCUAkR0QmU48B-fNxNuzIJ1sXZ933",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULN8Y5Zhkm7ugH4c7UuyisbbVZdWy2wuDpDtI6i4RG52roUQSkzec5woZA5Ln2RRpq88mZhmfyH_rnWwTzjZpR7vLy1_qVhjw5RnxzMzASkuACN6UfsYTfK"
+      ]
+    },
+    {
+      "id": "43284",
+      "title": "売戸建船井郡京丹波町売戸建住宅【265】写真14枚価格480万円間取4DK建物面積91.23㎡土地面積403.29㎡私道負担面積物件種目売戸建築年月1950年1月所在地京都府船井郡京丹波町富田交通ＪＲ",
+      "municipality": "京都府kyotamba-t26407",
+      "url": "https://kyotamba-t26407.akiya-athome.jp/bukken/detail/buy/43284",
+      "type": "売買",
+      "price": 4800000,
+      "price_raw": "価格480万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVhHG_oS2PrOlRLV4fGeWr9pp7dKjQ1L6ONOezdui0qkYmRURJLT0U7kGOPriYMNZbd7a30ehkCUX647jaufVLPY0U8cMgT0CDt8mdMGf-VGepdgiaMyKbmF",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeEWHmG8g4iq0-uk5wmAzwccfkFWuScN8Ah_AU5ymsjwqjo7PsZ6-CLv1SBlV2GzuFrZOjpJpYwg1K2_HRDn27KGZew41IOMHTui5lBbLdiiWOw9EsrN8pni",
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsUNPrf6gPaby0zIK6TRCqh9teaBwfLaMxfXdS15LvPop54dNclimXy5X2B6iM3BJsK0tohB0pU9C-eIhLFZiYedj4DoCUAkR0QmU48B-fNxNuzIJ1sXZ933",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULN8Y5Zhkm7ugH4c7UuyisbbVZdWy2wuDpDtI6i4RG52roUQSkzec5woZA5Ln2RRpq88mZhmfyH_rnWwTzjZpR7vLy1_qVhjw5RnxzMzASkuACN6UfsYTfK"
+      ]
+    },
+    {
+      "id": "42862",
+      "title": "売戸建船井郡京丹波町売戸建住宅【264】写真12枚価格230万円間取6DK建物面積93.08㎡土地面積333.9㎡私道負担面積物件種目売戸建築年月不詳所在地京都府船井郡京丹波町小畑交通ＪＲ山陰本線 和",
+      "municipality": "京都府kyotamba-t26407",
+      "url": "https://kyotamba-t26407.akiya-athome.jp/bukken/detail/buy/42862",
+      "type": "売買",
+      "price": 2300000,
+      "price_raw": "価格230万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVhHG_oS2PrOlRLV4fGeWr9pp7dKjQ1L6ONOezdui0qkYmRURJLT0U7kGOPriYMNZbd7a30ehkCUX647jaufVLPY0U8cMgT0CDt8mdMGf-VGepdgiaMyKbmF",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeEWHmG8g4iq0-uk5wmAzwccfkFWuScN8Ah_AU5ymsjwqjo7PsZ6-CLv1SBlV2GzuFrZOjpJpYwg1K2_HRDn27KGZew41IOMHTui5lBbLdiiWOw9EsrN8pni",
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsUNPrf6gPaby0zIK6TRCqh9teaBwfLaMxfXdS15LvPop54dNclimXy5X2B6iM3BJsK0tohB0pU9C-eIhLFZiYedj4DoCUAkR0QmU48B-fNxNuzIJ1sXZ933",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULN8Y5Zhkm7ugH4c7UuyisbbVZdWy2wuDpDtI6i4RG52roUQSkzec5woZA5Ln2RRpq88mZhmfyH_rnWwTzjZpR7vLy1_qVhjw5RnxzMzASkuACN6UfsYTfK"
+      ]
+    },
+    {
+      "id": "43059",
+      "title": "売戸建南丹市No538.美山町和泉の物件写真20枚土地 他 山林 1157平米あり価格880万円間取1SLDK建物面積101.84㎡土地面積378.72㎡私道負担面積物件種目売戸建築年月2003年8月",
+      "municipality": "京都府nantan-c26213",
+      "url": "https://nantan-c26213.akiya-athome.jp/bukken/detail/buy/43059",
+      "type": "売買",
+      "price": 8800000,
+      "price_raw": "価格880万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNkp9UFmN2Wfj_Kqv_1cmaKqiOjdRHf3_T7dXLwrrMmc5kCjHppoUFNXzUL5xEJ-CX2NaK_KZhcWKo8oZQXwjkWcnX-3OO7C0nAcTbWwrexjKP_QGOGZJaPC"
+      ]
+    },
+    {
+      "id": "43055",
+      "title": "売戸建南丹市No537.美山町田歌の物件写真27枚土地 他 １筆39平米あり価格3,300万円間取2LDK建物面積101.61㎡土地面積901.13㎡私道負担面積物件種目売戸建築年月1975年4月所在",
+      "municipality": "京都府nantan-c26213",
+      "url": "https://nantan-c26213.akiya-athome.jp/bukken/detail/buy/43055",
+      "type": "売買",
+      "price": 33000000,
+      "price_raw": "価格3,300万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNkp9UFmN2Wfj_Kqv_1cmaKqiOjdRHf3_T7dXLwrrMmc5kCjHppoUFNXzUL5xEJ-CX2NaK_KZhcWKo8oZQXwjkWcnX-3OO7C0nAcTbWwrexjKP_QGOGZJaPC"
+      ]
+    },
+    {
+      "id": "43046",
+      "title": "売戸建南丹市No535.日吉町佐々江の物件写真27枚土地 他 山林等４筆計1795平米建物 他 倉庫 1棟 13.22平米・ 物置3棟 1階38.18平米 2階29.98平米 11.57平米 19.8",
+      "municipality": "京都府nantan-c26213",
+      "url": "https://nantan-c26213.akiya-athome.jp/bukken/detail/buy/43046",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNkp9UFmN2Wfj_Kqv_1cmaKqiOjdRHf3_T7dXLwrrMmc5kCjHppoUFNXzUL5xEJ-CX2NaK_KZhcWKo8oZQXwjkWcnX-3OO7C0nAcTbWwrexjKP_QGOGZJaPC"
+      ]
+    },
+    {
+      "id": "43044",
+      "title": "売戸建南丹市No534.園部町小山西町の物件写真26枚価格650万円間取4DK建物面積104.51㎡土地面積265.39㎡私道負担面積物件種目売戸建築年月1961年10月所在地京都府南丹市園部町小山西",
+      "municipality": "京都府nantan-c26213",
+      "url": "https://nantan-c26213.akiya-athome.jp/bukken/detail/buy/43044",
+      "type": "売買",
+      "price": 6500000,
+      "price_raw": "価格650万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNkp9UFmN2Wfj_Kqv_1cmaKqiOjdRHf3_T7dXLwrrMmc5kCjHppoUFNXzUL5xEJ-CX2NaK_KZhcWKo8oZQXwjkWcnX-3OO7C0nAcTbWwrexjKP_QGOGZJaPC"
+      ]
+    },
+    {
+      "id": "43030",
+      "title": "売戸建南丹市No530.美山町板橋の物件写真26枚価格880万円間取4SDK建物面積123.98㎡土地面積375.56㎡私道負担面積物件種目売戸建築年月1980年11月所在地京都府南丹市美山町板橋交通",
+      "municipality": "京都府nantan-c26213",
+      "url": "https://nantan-c26213.akiya-athome.jp/bukken/detail/buy/43030",
+      "type": "売買",
+      "price": 8800000,
+      "price_raw": "価格880万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNkp9UFmN2Wfj_Kqv_1cmaKqiOjdRHf3_T7dXLwrrMmc5kCjHppoUFNXzUL5xEJ-CX2NaK_KZhcWKo8oZQXwjkWcnX-3OO7C0nAcTbWwrexjKP_QGOGZJaPC"
+      ]
+    },
+    {
+      "id": "43027",
+      "title": "売事業用(一棟)南丹市No529.美山町長尾の物件写真17枚価格(管理費等)800万円使用部分面積49.53㎡土地面積492㎡用途地域-建物構造木造物件種目売店舗築年月1988年12月所在地京都府南丹",
+      "municipality": "京都府nantan-c26213",
+      "url": "https://nantan-c26213.akiya-athome.jp/bukken/detail/buy/43027",
+      "type": "売買",
+      "price": null,
+      "price_raw": null,
+      "land_area": "土地面積",
+      "building_area": null,
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNkp9UFmN2Wfj_Kqv_1cmaKqiOjdRHf3_T7dXLwrrMmc5kCjHppoUFNXzUL5xEJ-CX2NaK_KZhcWKo8oZQXwjkWcnX-3OO7C0nAcTbWwrexjKP_QGOGZJaPC"
+      ]
+    },
+    {
+      "id": "42959",
+      "title": "売戸建南丹市No528.日吉町畑郷の物件写真20枚離れ2部屋 29.29平米あり（平成10年建築）価格780万円間取3SK建物面積90.78㎡土地面積426.97㎡私道負担面積物件種目売戸建築年月不詳",
+      "municipality": "京都府nantan-c26213",
+      "url": "https://nantan-c26213.akiya-athome.jp/bukken/detail/buy/42959",
+      "type": "売買",
+      "price": 7800000,
+      "price_raw": "価格780万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNkp9UFmN2Wfj_Kqv_1cmaKqiOjdRHf3_T7dXLwrrMmc5kCjHppoUFNXzUL5xEJ-CX2NaK_KZhcWKo8oZQXwjkWcnX-3OO7C0nAcTbWwrexjKP_QGOGZJaPC"
+      ]
+    },
+    {
+      "id": "42953",
+      "title": "売戸建南丹市No518.日吉町志和賀の物件写真27枚他 雑種地2筆 計460平米　山林1筆 211平米あり価格1,100万円間取8SLDK建物面積155.36㎡土地面積347.1㎡私道負担面積物件種目",
+      "municipality": "京都府nantan-c26213",
+      "url": "https://nantan-c26213.akiya-athome.jp/bukken/detail/buy/42953",
+      "type": "売買",
+      "price": 11000000,
+      "price_raw": "価格1,100万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNkp9UFmN2Wfj_Kqv_1cmaKqiOjdRHf3_T7dXLwrrMmc5kCjHppoUFNXzUL5xEJ-CX2NaK_KZhcWKo8oZQXwjkWcnX-3OO7C0nAcTbWwrexjKP_QGOGZJaPC"
+      ]
+    },
+    {
+      "id": "42952",
+      "title": "売戸建南丹市No514.八木町八木の物件写真27枚価格400万円間取8K建物面積54.9㎡土地面積281.55㎡私道負担面積物件種目売戸建築年月不詳所在地京都府南丹市八木町八木交通ＪＲ山陰本線 八木駅",
+      "municipality": "京都府nantan-c26213",
+      "url": "https://nantan-c26213.akiya-athome.jp/bukken/detail/buy/42952",
+      "type": "売買",
+      "price": 4000000,
+      "price_raw": "価格400万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=X6xk8aW_vNkp9UFmN2Wfj_Kqv_1cmaKqiOjdRHf3_T7dXLwrrMmc5kCjHppoUFNXzUL5xEJ-CX2NaK_KZhcWKo8oZQXwjkWcnX-3OO7C0nAcTbWwrexjKP_QGOGZJaPC"
+      ]
+    },
+    {
+      "id": "41925",
+      "title": "売戸建船井郡京丹波町売戸建住宅【263】写真6枚価格350万円間取9DK建物面積169.29㎡土地面積702.97㎡私道負担面積物件種目売戸建築年月1979年9月所在地京都府船井郡京丹波町升谷交通ＪＲ",
+      "municipality": "京都府kyotamba-t26407",
+      "url": "https://kyotamba-t26407.akiya-athome.jp/bukken/detail/buy/41925",
+      "type": "売買",
+      "price": 3500000,
+      "price_raw": "価格350万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVhHG_oS2PrOlRLV4fGeWr9pp7dKjQ1L6ONOezdui0qkYmRURJLT0U7kGOPriYMNZbd7a30ehkCUX647jaufVLPY0U8cMgT0CDt8mdMGf-VGepdgiaMyKbmF",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeEWHmG8g4iq0-uk5wmAzwccfkFWuScN8Ah_AU5ymsjwqjo7PsZ6-CLv1SBlV2GzuFrZOjpJpYwg1K2_HRDn27KGZew41IOMHTui5lBbLdiiWOw9EsrN8pni",
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsUNPrf6gPaby0zIK6TRCqh9teaBwfLaMxfXdS15LvPop54dNclimXy5X2B6iM3BJsK0tohB0pU9C-eIhLFZiYedj4DoCUAkR0QmU48B-fNxNuzIJ1sXZ933",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULN8Y5Zhkm7ugH4c7UuyisbbVZdWy2wuDpDtI6i4RG52roUQSkzec5woZA5Ln2RRpq88mZhmfyH_rnWwTzjZpR7vLy1_qVhjw5RnxzMzASkuACN6UfsYTfK"
+      ]
+    },
+    {
+      "id": "42427",
+      "title": "売戸建船井郡京丹波町売戸建住宅【261】写真12枚価格380万円間取5DK建物面積138.34㎡土地面積1290.93㎡私道負担面積物件種目売戸建築年月不詳所在地京都府船井郡京丹波町中台交通ＪＲ山陰本",
+      "municipality": "京都府kyotamba-t26407",
+      "url": "https://kyotamba-t26407.akiya-athome.jp/bukken/detail/buy/42427",
+      "type": "売買",
+      "price": 3800000,
+      "price_raw": "価格380万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVhHG_oS2PrOlRLV4fGeWr9pp7dKjQ1L6ONOezdui0qkYmRURJLT0U7kGOPriYMNZbd7a30ehkCUX647jaufVLPY0U8cMgT0CDt8mdMGf-VGepdgiaMyKbmF",
+        "https://img.akiya-athome.jp/?v=0bscUUllJeEWHmG8g4iq0-uk5wmAzwccfkFWuScN8Ah_AU5ymsjwqjo7PsZ6-CLv1SBlV2GzuFrZOjpJpYwg1K2_HRDn27KGZew41IOMHTui5lBbLdiiWOw9EsrN8pni",
+        "https://img.akiya-athome.jp/?v=3ePpCL-VCsUNPrf6gPaby0zIK6TRCqh9teaBwfLaMxfXdS15LvPop54dNclimXy5X2B6iM3BJsK0tohB0pU9C-eIhLFZiYedj4DoCUAkR0QmU48B-fNxNuzIJ1sXZ933",
+        "https://img.akiya-athome.jp/?v=n7Eb20uAPULN8Y5Zhkm7ugH4c7UuyisbbVZdWy2wuDpDtI6i4RG52roUQSkzec5woZA5Ln2RRpq88mZhmfyH_rnWwTzjZpR7vLy1_qVhjw5RnxzMzASkuACN6UfsYTfK"
+      ]
+    },
+    {
+      "id": "41996",
+      "title": "売戸建京都市左京区【物件第R7-05号】京都市左京区岩倉上蔵町写真15枚前道約6ｍ、間口約8.2ｍ　解放感のある中古住宅　駐車場2台分価格2,300万円間取5LDK建物面積80.31㎡土地面積148.",
+      "municipality": "京都府kyoto-c26100",
+      "url": "https://kyoto-c26100.akiya-athome.jp/bukken/detail/buy/41996",
+      "type": "売買",
+      "price": 23000000,
+      "price_raw": "価格2,300万円",
+      "land_area": "土地面積",
+      "building_area": "建物面積",
+      "built_year": "築年月",
+      "description": "",
+      "images": [
+        "https://img.akiya-athome.jp/?v=KcX4Ywl_uVjYCGWturAcTRLV4fGeWr9pp7dKjQ1L6ONqt_czjDNTW1Gi5p6fVMGhvsPHeR7fkY4-ZZvSa_5JlPEg_FJELey6c_PHRYmSaGIled8O5Af0kXcYtTj7W7qc"
+      ]
+    }
+  ]
+}
